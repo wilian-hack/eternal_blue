@@ -1,0 +1,818 @@
+<!doctype html>
+<html lang="en-GB" class="no-js">
+	<head>
+		<meta charset="UTF-8">
+		<title>GRC Software | Cyber Security &amp; Risk Advisory Services | IRM | SureCloud</title>
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K2QWBJW');</script>
+		<link href="https://www.google-analytics.com/" rel="dns-prefetch">
+        		
+		<link href="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/favicon.ico" rel="shortcut icon">
+        <link href="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/favicon.png" rel="shortcut icon">
+        <link href="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/favicon@2x.png" rel="apple-touch-icon">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"2b171193f1",applicationID:"87744494"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1169.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#3D3D3D">
+		
+	<!-- This site is optimized with the Yoast SEO plugin v14.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Discover SureCloud’s market leading GRC software and award-winning cyber security advisory and testing services, all underpinned by a cloud-based platform." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="30" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="GRC Software | Cyber Security &amp; Risk Advisory Services | IRM | SureCloud" />
+	<meta property="og:description" content="Discover SureCloud’s market leading GRC software and award-winning cyber security advisory and testing services, all underpinned by a cloud-based platform." />
+	<meta property="og:url" content="https://www.surecloud.com/" />
+	<meta property="og:site_name" content="SureCloud" />
+	<meta property="article:modified_time" content="2020-07-14T08:25:07+00:00" />
+	<meta property="og:image" content="https://www.surecloud.com/wp-content/uploads/2020/01/SC-Red-word-snip.png" />
+	<meta property="og:image:width" content="1189" />
+	<meta property="og:image:height" content="1004" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.surecloud.com/#organization","name":"SureCloud","url":"https://www.surecloud.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://www.surecloud.com/#logo","inLanguage":"en-GB","url":"","caption":"SureCloud"},"image":{"@id":"https://www.surecloud.com/#logo"}},{"@type":"WebSite","@id":"https://www.surecloud.com/#website","url":"https://www.surecloud.com/","name":"SureCloud","description":"Always Be Certain GRC Cybersecurity","publisher":{"@id":"https://www.surecloud.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.surecloud.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://www.surecloud.com/#primaryimage","inLanguage":"en-GB","url":"https://www.surecloud.com/wp-content/uploads/2020/01/SC-Red-word-snip.png","width":1189,"height":1004},{"@type":"WebPage","@id":"https://www.surecloud.com/#webpage","url":"https://www.surecloud.com/","name":"GRC Software | Cyber Security & Risk Advisory Services | IRM | SureCloud","isPartOf":{"@id":"https://www.surecloud.com/#website"},"about":{"@id":"https://www.surecloud.com/#organization"},"primaryImageOfPage":{"@id":"https://www.surecloud.com/#primaryimage"},"datePublished":"2019-07-24T09:29:36+00:00","dateModified":"2020-07-14T08:25:07+00:00","description":"Discover SureCloud\u2019s market leading GRC software and award-winning cyber security advisory and testing services, all underpinned by a cloud-based platform.","inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https://www.surecloud.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='https://js.hs-scripts.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.surecloud.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://www.surecloud.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='dlm-frontend-css'  href='https://www.surecloud.com/wp-content/plugins/download-monitor/assets/css/frontend.css?ver=5.4.2' media='all' />
+<link rel='stylesheet' id='main_css-css'  href='https://www.surecloud.com/wp-content/themes/surecloud/assets/css/global.min.css?ver=7.0.29' media='all' />
+<link rel='https://api.w.org/' href='https://www.surecloud.com/wp-json/' />
+<link rel='shortlink' href='30' />
+<link rel="alternate" type="application/json+oembed" href="https://www.surecloud.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.surecloud.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.surecloud.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.surecloud.com%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v7.35.2-->
+			<script type="text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+						<script>
+				(function() {
+					var formObjects = [];
+					window.hbsptReady = function(formObject) {
+						if (!formObject) {
+							for (var i in formObjects) {
+								hbspt.forms.create(formObjects[i]);
+							};
+							formObjects = [];
+						} else if (window.hbspt && window.hbspt.forms) {
+							hbspt.forms.create(formObject);
+						} else {
+							formObjects.push(formObject);
+						}
+					};
+				})();
+			</script>
+		
+        
+            
+                              <link rel="alternate" href="30" hreflang="en-gb"/>
+                                         <link rel="alternate" href="30" hreflang="x-default"/>
+            
+
+    
+
+ <!-- There is no amphtml version available for this URL. --><link rel="icon" href="https://www.surecloud.com/wp-content/uploads/2020/04/cropped-favicon@2x-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.surecloud.com/wp-content/uploads/2020/04/cropped-favicon@2x-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.surecloud.com/wp-content/uploads/2020/04/cropped-favicon@2x-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.surecloud.com/wp-content/uploads/2020/04/cropped-favicon@2x-270x270.png" />
+		<link rel="stylesheet" type="text/css" media="print" href="https://www.surecloud.com/wp-content/themes/surecloud/assets/css/print.css" />
+
+	</head>
+	<body class="home page-template-default page page-id-6723 fixed-header gateway" >
+	<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '332674047190605');fbq('track', 'PageView');</script>
+<noscript><img height="1" width="1" style="display:none" alt="" src="https://www.facebook.com/tr?id=332674047190605&ev=PageView&noscript=1"></noscript>	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K2QWBJW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+		<div class="wrapper">
+			<header class="outer-container">
+	<div class="container row rel">
+		<div class="brand-wrap">
+							<a href="30" title="SureCloud" rel="home" class="brand">
+					<img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/logo.svg" alt="SureCloud logo">
+				</a>
+						</div>
+		<div class="nav-wrapper">
+						<div class="primary-nav-wrap">
+				<div class="secondary-nav-wrap row end-xs">
+					<nav class="secondary-nav">
+						<ul class="icon-list"><li id="menu-item-9928" class="icon-globe icon-move menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-9928"><a href="30" aria-current="page">UK</a>
+<ul class="sub-menu">
+	<li id="menu-item-9925" class="us-switch menu-item menu-item-type-custom menu-item-object-custom menu-item-9925"><a href="https://www.surecloud.com/us/products">US</a></li>
+</ul>
+</li>
+<li id="menu-item-4832" class="icon help-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-4832"><a href="https://surecloud.zendesk.com/">Help Center<span>Help Center</span></a></li>
+<li id="menu-item-5316" class="icon telephone-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-5316"><a href="https://www.surecloud.com/products/contact-us">Get In Touch<span>Get In Touch</span></a></li>
+<li id="menu-item-7421" class="icon search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-7421"><a href="30#">Search<span>Search</span></a></li>
+<li id="menu-item-9563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6723 current_page_item menu-item-9563"><a href="30" aria-current="page">Corporate</a></li>
+<li id="menu-item-6718" class="margin-left grc menu-item menu-item-type-custom menu-item-object-custom menu-item-6718"><a href="https://www.surecloud.com/products">GRC</a></li>
+<li id="menu-item-7428" class="cyber menu-item menu-item-type-post_type menu-item-object-page menu-item-7428"><a href="https://www.surecloud.com/services/">Cyber / Advisory</a></li>
+<li id="menu-item-30" class="icon login-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="https://secure.surecloud.com/index.jsp#/">Client Login<span>Client Login</span></a></li>
+</ul>					</nav>
+				</div>
+			</div>
+								</div>
+					<a href="30#" class="burger-menu float-right">
+				<i class="menu-icon"><span class="visuallyHidden">Toggle Menu</span></i>
+			</a>
+			
+<div class="search-form">
+	<form action="30" method="get">
+	    <label for="search" class="visuallyHidden">Search</label>
+	    <div class="flex">
+	    	<div class="flex-item flex-input">
+	   			<input type="text" name="s" id="search" value="" placeholder="Search SureCloud ..." title="Search SureCloud ..." />
+			</div>
+		    <div class="flex-item flex-submit">
+				<button type="submit" value="Search" class="btn btn-primary">Search<i class="icon-right-open-big"></i></button>
+			</div>
+			<div class="flex-item flex-close">
+		   		<i class="icon-close"><span hidden>Close Search</span></i>
+		    </div>
+	    </div>
+        <input type="hidden" name="area" value="" />
+	</form>
+</div>	</div>
+</header>
+<div class="cta-buttons">
+    <a class="request" href="30#get-started">
+        <span class="hover">Request a demo</span>
+    </a>
+        <a class="contact" href="https://www.surecloud.com/products/contact-us/"><span class="hover">Contact us</span></a>
+
+    
+        <a class="cloud" href="https://www.surecloud.com/products/our-resources"><span class="hover">Resources</span></a>
+
+        
+
+</div>
+<div class="content-wrapper">
+                        <div class="gateway-section">
+    <div class="background-image-wrapper">
+        <div class="image-container">
+            <img src="https://www.surecloud.com/wp-content/uploads/2019/07/dot-grid-grey.svg" class="attachment-full size-full" alt="" />    </div>  
+    </div>
+    <div class="container gateway-wrapper">
+        <div class="col-xs-12 col-sm-8 gateway-intro-section">
+            <h1>Better Risk Management<br /> Is Closer Than You Think</h1>
+            <p>SureCloud is the first company to deliver market-leading Governance Risk and Compliance (<span style="text-decoration: underline;">GRC) software</span> solutions and award-winning Cyber Security and Risk Advisory services, all underpinned by a single cloud-based platform.</p>
+<p>How can we help?</p>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+            
+                <div class="row gateway-links">
+
+                                    <div class="gateway-item">
+                        <div class="gateway-link link-grc link-grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/grc-link.svg" alt="GRC" class="grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/cyber-link.svg" alt="GRC" class="cyber">
+                        </div>
+                        <a href="https://www.surecloud.com/products" class="pop-button grc">Governance, Risk and Compliance Products</a>
+                        <div class="overlay pop-grc">
+                            <div class="pop-leave"></div>
+                                <div class="popup-container">
+                                    <div class="popup">
+                                        <div class="left-column">
+                                            <h2><a href="https://www.surecloud.com/products">Governance, Risk and Compliance Products</a></h2>
+                                            <p>SureCloud&#8217;s Governance, Risk and Compliance (GRC) software automates existing manual risk and compliance processes. Discover our GRC solutions to manage requirements for a variety of certifying bodies and regulations including ISO, GDPR, PCI, SMCR:</p>
+                                        </div>
+                                        <div class="right-column">
+                                        <ul>
+<li>Risk Management</li>
+<li>Data Privacy Management</li>
+<li>Compliance Management</li>
+<li>Vendor Risk Management</li>
+</ul>
+                                        </div>
+                                        <div class="button-wrapper">
+                                            <a href="https://www.surecloud.com/products" class="btn btn-primary btn-medium">
+                                                Visit Site
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    
+                                        <div class="gateway-item">
+                        <div class="gateway-link link-grc link-cyber">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/grc-link.svg" alt="GRC" class="grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/cyber-link.svg" alt="GRC" class="cyber">
+                        </div>
+                        <a href="https://www.surecloud.com/services/" class="pop-button cyber">Cyber and Risk Advisory Services</a>
+                        <div class="overlay pop-cyber">
+                            <div class="pop-leave"></div>
+                                <div class="popup-container">
+                                    <div class="popup">
+                                        <div class="left-column">
+                                            <h2><a href="https://www.surecloud.com/services/">Cyber and Risk Advisory Services</a></h2>
+                                            <p class="p1"><span class="s1">Certified by the National Cyber Security Centre (NCSC) &amp; CREST and delivered using the innovative Pentest-as-a-Service (underpinned by the SureCloud platform), SureCloud’s cybersecurity services act as an extension of your in-house security team and ensures you have everything you need to improve your risk posture.</span></p>
+                                        </div>
+                                        <div class="right-column">
+                                        <ul>
+<li>Penetration Testing</li>
+<li>Assessments</li>
+<li>Information Assurance and Governance</li>
+<li>Managed</li>
+<li>Specialist</li>
+</ul>
+                                        </div>
+                                        <div class="button-wrapper">
+                                            <a href="https://www.surecloud.com/services/" class="btn btn-primary btn-medium">
+                                                Visit Site
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    
+                                    </div>
+
+        
+        </div>
+    </div>
+
+</div>
+
+
+            
+
+<div id="main-content" class="outer-container vertical-margin home-solutions">
+    <div class="container">
+        <div class="col-xs-12 text-centered">
+            <h2>Whether you are interested in buying Gartner recognised GRC software or CREST certified Cyber and Risk Advisory services, you will benefit from automated workflows and insight from the award-winning SureCloud platform. All SureCloud’s service offerings are fully compatible with the GRC suite of products enabling a seamless integration of information, taking your risk programs to the next level.</h2>
+            <div></div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+<div class="outer-container vertical-margin body-content">  
+    <div class="container">
+        <div class="row between-xs image-left" data-aos="fade-right" data-aos-duration="500">
+            <div class="left-column image" >
+                                <div class="background-image-container">
+                     
+                                                    <img width="700" height="652" src="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137.png" class="attachment-750-thumb size-750-thumb" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137.png 700w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137-250x233.png 250w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137-120x112.png 120w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137-78x73.png 78w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-targeted-White-e1569597764137-86x80.png 86w" sizes="(max-width: 700px) 100vw, 700px" />                         
+                     
+                </div>
+                            </div>
+            <div class="right-column" data-aos="fade-left">
+                                    <h2>Why both?</h2>
+<p>Large consulting companies have been offering GRC software and risk advisory services since their inception. Why? Because there is a need.  Organisations require advice, strategic planning and the tools to automate risk &amp; compliance processes from a single provider.</p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="outer-container vertical-margin body-content">  
+    <div class="container">
+        <div class="row between-xs image-right" data-aos="fade-right" data-aos-duration="500">
+            <div class="left-column image" >
+                                <div class="background-image-container">
+                     
+                                                    <img width="750" height="490" src="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-750x490.png" class="attachment-750-thumb size-750-thumb" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-750x490.png 750w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-250x163.png 250w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-768x502.png 768w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-700x457.png 700w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-120x78.png 120w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-112x73.png 112w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985-123x80.png 123w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Generic-Born-in-the-Cloud-White-e1569585248985.png 1199w" sizes="(max-width: 750px) 100vw, 750px" />                         
+                     
+                </div>
+                            </div>
+            <div class="right-column" data-aos="fade-left">
+                                    <h2>Digital transformation</h2>
+<p>The nature of consulting engagements is changing though.  Businesses need deep, ongoing relationships, which focus on access to insight and outcomes rather than isolated  projects. Cloud platforms are central to this idea, transforming the way software and professional services are consumed.</p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="outer-container vertical-margin body-content">  
+    <div class="container">
+        <div class="row between-xs image-left" data-aos="fade-right" data-aos-duration="500">
+            <div class="left-column image" >
+                                <div class="background-image-container">
+                     
+                                                    <img width="750" height="301" src="https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-750x301.png" class="attachment-750-thumb size-750-thumb" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-750x301.png 750w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-250x100.png 250w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-768x308.png 768w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-700x281.png 700w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-120x48.png 120w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-182x73.png 182w, https://www.surecloud.com/wp-content/uploads/2019/09/CROPPED-Partnerships-SureCloud-Website-Illustrations-2019_-199x80.png 199w" sizes="(max-width: 750px) 100vw, 750px" />                         
+                     
+                </div>
+                            </div>
+            <div class="right-column" data-aos="fade-left">
+                                    <h2>The subscription economy</h2>
+<p>Organisations need the flexibility to subscribe to both cyber and risk advisory services and the latest process automation tools anytime, anywhere, and with no upfront costs. This requires a radical change in business models, which many professional service firms are not equipped to deliver.</p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="outer-container vertical-margin body-content">  
+    <div class="container">
+        <div class="row between-xs image-right" data-aos="fade-right" data-aos-duration="500">
+            <div class="left-column image" >
+                                <div class="background-image-container">
+                     
+                                                    <img width="750" height="345" src="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-750x345.png" class="attachment-750-thumb size-750-thumb" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-750x345.png 750w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-250x115.png 250w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-768x353.png 768w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-700x322.png 700w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-120x55.png 120w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-159x73.png 159w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Banners-April-2019_Customer-Success-White-174x80.png 174w" sizes="(max-width: 750px) 100vw, 750px" />                         
+                     
+                </div>
+                            </div>
+            <div class="right-column" data-aos="fade-left">
+                                    <h2>What we offer</h2>
+<p>SureCloud offers a range of GRC applications and cyber &amp; risk advisory services designed to transform the way risk management is delivered into your organization – covering  strategic planning, process automation, and other business outcome focused services – available on-demand at a lower total cost of ownership.</p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="outer-container vertical-margin body-content">  
+    <div class="container">
+        <div class="row between-xs image-left" data-aos="fade-right" data-aos-duration="500">
+            <div class="left-column image" >
+                                <div class="background-image-container">
+                     
+                                                    <img width="750" height="810" src="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-750x810.png" class="attachment-750-thumb size-750-thumb" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-750x810.png 750w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-250x270.png 250w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-768x829.png 768w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-700x756.png 700w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-120x130.png 120w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-68x73.png 68w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836-74x80.png 74w, https://www.surecloud.com/wp-content/uploads/2017/06/SureCloud-Website-Illustrations-2019_Magic-Quadrant-2-e1569591401836.png 1870w" sizes="(max-width: 750px) 100vw, 750px" />                         
+                     
+                </div>
+                            </div>
+            <div class="right-column" data-aos="fade-left">
+                                    <h2>Don’t take our word for it</h2>
+<p>SureCloud has been recognised on Gartner’s IRM solutions magic quadrant demonstrating our commitment to providing customers with market-leading flexible risk management solutions. SureCloud are also proud to hold multiple prestigious accreditations, including, CHECK and CREST and our team works hard to retain them every year to ensure our services meet industry standards.</p>
+                            </div>
+
+        </div>
+    </div>
+</div>
+
+
+            <div class="gateway-section outer-container vertical-margin body-content">
+    <div class="background-image-wrapper">
+        <div class="image-container">
+                        <img style="opacity: .05;" src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/dot-grid-blue.svg" class="attachment-full size-full" alt="Grid of blue dots">    </div>
+    </div>
+    <div class="container gateway-wrapper">
+            <div class="col-xs-12 col-sm-8 gateway-intro-section gateway-intro-section-alt">
+            <h2 class="h1">Discover more</h2>
+            </div>
+            <div class="col-xs-12 col-sm-6">
+            
+                <div class="row gateway-links">
+
+                                    
+                    <div class="gateway-item">
+                        <div class="gateway-link link-grc link-grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/grc-link.svg" alt="GRC" class="grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/cyber-link.svg" alt="GRC" class="cyber">
+                        </div>
+                        <a href="30#" class="pop-button grc">Governance, Risk and Compliance Products</a>
+                        <div class="overlay pop-grc">
+                            <div class="pop-leave"></div>
+                                <div class="popup-container">
+                                    <div class="popup">
+                                        <div class="left-column">
+                                            <h2><a href="https://www.surecloud.com/products">Governance, Risk and Compliance Products</a></h2>
+                                            <p>SureCloud&#8217;s Governance, Risk and Compliance (GRC) software automates existing manual risk and compliance processes. Discover our GRC solutions to manage requirements for a variety of certifying bodies and regulations including ISO, GDPR, PCI, SMCR:</p>
+                                        </div>
+                                        <div class="right-column">
+                                        <ul>
+<li>Risk Management</li>
+<li>Data Privacy Management</li>
+<li>Compliance Management</li>
+<li>Vendor Risk Management</li>
+</ul>
+                                        </div>
+                                        <div class="button-wrapper">
+                                            <a href="https://www.surecloud.com/products" class="btn btn-primary btn-medium">
+                                                Discover More
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    
+                                        
+                    <div class="gateway-item">
+                        <div class="gateway-link link-grc link-cyber">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/grc-link.svg" alt="GRC" class="grc">
+                            <img src="https://www.surecloud.com/wp-content/themes/surecloud/assets/img/cyber-link.svg" alt="GRC" class="cyber">
+                        </div>
+                        <a href="30#" class="pop-button cyber">Cyber and Risk Advisory Services</a>
+                        <div class="overlay pop-cyber">
+                            <div class="pop-leave"></div>
+                                <div class="popup-container">
+                                    <div class="popup">
+                                        <div class="left-column">
+                                            <h2><a href="https://www.surecloud.com/services/">Cyber and Risk Advisory Services</a></h2>
+                                            <p class="p1"><span class="s1">Certified by the National Cyber Security Centre (NCSC) &amp; CREST and delivered using the innovative Pentest-as-a-Service (underpinned by the SureCloud platform), SureCloud’s cybersecurity services act as an extension of your in-house security team and ensures you have everything you need to improve your risk posture.</span></p>
+                                        </div>
+                                        <div class="right-column">
+                                        <ul>
+<li>Penetration Testing</li>
+<li>Assessments</li>
+<li>Information Assurance and Governance</li>
+<li>Managed</li>
+<li>Specialist</li>
+</ul>
+                                        </div>
+                                        <div class="button-wrapper">
+                                            <a href="https://www.surecloud.com/services/" class="btn btn-primary btn-medium">
+                                                Discover More
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                    
+                    
+                                    </div>
+
+        
+        </div>
+    </div>
+
+</div>
+
+
+            <div class="outer-container related-resources vertical-margin">
+    <div class="container related-content">
+     
+        <div class="grid">
+            <div class="col-xs-12 text-centered">
+                <h2>Related Resources</h2>
+            </div>
+            <div class="teaser-block">
+<div class="teaser">
+    <a href="https://www.surecloud.com/services/blog/cybersecurity-ready-new-normal">
+                                <img src="https://www.surecloud.com/wp-content/uploads/2020/05/Cyber-Resilience-Assessment-Blog-555x312.jpg" class="attachment-teaser size-teaser wp-post-image" alt="" />                    <div class="teaser-details">
+            <h3>Getting your Cybersecurity Ready for the New Normal</h3>
+        </div>
+    </a>
+</div></div><div class="teaser-block">
+<div class="teaser">
+    <a href="https://www.surecloud.com/products/news/recognised-2019-gartner-magic-quadrant-it-vendor-risk-management">
+                    <div class="teaser-info secondary-bg">
+                <span>2</span>
+                <span>Dec</span>
+            </div>
+                                <img src="https://www.surecloud.com/wp-content/uploads/2019/11/Vendor-Risk-MQ-Feature-image--555x312.png" class="attachment-teaser size-teaser wp-post-image" alt="" />                    <div class="teaser-details">
+            <h3>SureCloud Recognised in the 2019 Gartner Magic Quadrant for IT Vendor Risk Management Tools</h3>
+        </div>
+    </a>
+</div></div><div class="teaser-block">
+<div class="teaser">
+    <a href="https://www.surecloud.com/services/news/award-grc-cyber">
+                    <div class="teaser-info secondary-bg">
+                <span>12</span>
+                <span>Aug</span>
+            </div>
+                                <img src="https://www.surecloud.com/wp-content/uploads/2019/07/AI-Awards--555x312.jpg" class="attachment-teaser size-teaser wp-post-image" alt="" />                    <div class="teaser-details">
+            <h3>SureCloud Awarded ‘Most Innovative GRC &#038; Cyber Security Solutions Provider’</h3>
+        </div>
+    </a>
+</div></div>        </div>
+    </div>
+</div>            <div class="outer-container consumer-appreciation">
+        <div id="big" class="feedback-image owl-carousel text-centered">
+
+      
+                <div class="carousel-item">
+            <div class="background-image-testimonial">
+                <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />            </div>
+        </div>
+                      
+            <div class="carousel-item">
+        <div class="background-image-testimonial">
+            <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+    </div>
+                      
+            <div class="carousel-item">
+        <div class="background-image-testimonial">
+            <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+    </div>
+                      
+            <div class="carousel-item">
+        <div class="background-image-testimonial">
+            <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+    </div>
+                      
+            <div class="carousel-item">
+        <div class="background-image-testimonial">
+            <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+    </div>
+                      
+            <div class="carousel-item">
+        <div class="background-image-testimonial">
+            <img width="1" height="1" src="https://www.surecloud.com/wp-content/uploads/2019/08/download.svg" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+    </div>
+                    
+    </div>
+    
+    <div class="container">
+        <div class="half-column">
+        
+
+    <div id="thumbs" class="feedback owl-carousel">
+
+            <div class="carousel-item">
+            <blockquote>
+                <p>"Very impressed with the depth and detail that SureCloud has put into their UK SMCR solution. Very well thought out."</p>
+                <cite>Michael Rasmussen, GRC 20/20</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                        <div class="carousel-item">
+            <blockquote>
+                <p>"SureCloud has given us a fantastic tool, as well as a higher level of customer service. We can now go back to the relevant operations people with proof of vulnerabilities that need fixing. We couldn’t do that before. Unsurprisingly, we’re looking at adding other SureCloud services to the solution."</p>
+                <cite>Abi Dakin, ICT Compliance Specialist, Rotherham MBC</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                        <div class="carousel-item">
+            <blockquote>
+                <p>“Within a relatively short time, we had reached the conclusion that SureCloud is not only the best technical solution but also the best people, and the most customer-friendly company that we’d come across”</p>
+                <cite>Caius Ajiz, Ops Lead, Chelmsford City Council</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                        <div class="carousel-item">
+            <blockquote>
+                <p>"By partnering with SureCloud, we can help both existing and new customers to streamline and automate their compliance and information security processes across their business operations.”</p>
+                <cite>Buddy Norton, Senior Executive of New Cyber Source</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                        <div class="carousel-item">
+            <blockquote>
+                <p>"SureCloud’s Platform has moved us away from using a series of disparate spreadsheets and countless emails for recording risk – with all of the potentials for errors that entails – to a single, centralised source of risk information for every member of staff."</p>
+                <cite>Ben Whitestone, Head of Governance at the Office for Students.</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                        <div class="carousel-item">
+            <blockquote>
+                <p>"We were attracted to SureCloud due to the flexibility of the solution in comparison to other GRC solutions, as it gave us the ability to design our own user journeys and reporting tools, and the modular approach that means we can continue to enhance our framework over time. "</p>
+                <cite>Claire Baty, Governance, Risk and Compliance Director at Auto Trader</cite>
+            </blockquote>
+        </div>
+        
+
+       
+                
+    </div>
+            </div>
+        <div class="half-column">
+        	
+
+			<h2>Loved by companies around the world</h2>			<div class="owl-carousel logo-carousel">
+
+				<div class='logo-group-container'><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/aa-200x73.png' class='logo-carousel__item' alt='AA logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/tgi-fridays-200x73.png' class='logo-carousel__item' alt='tgi-fridays logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/thames-water-200x73.png' class='logo-carousel__item' alt='thames-water logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/made-200x73.png' class='logo-carousel__item' alt='made.com logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/chichester-borough-council-200x73.png' class='logo-carousel__item' alt='Chichester Borough Council logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/international-baccalaurette-200x73.png' class='logo-carousel__item' alt='International Baccalaurette logo' data-loading='lazy'/></div></div><div class='logo-group-container'><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/evans-cycles-200x73.png' class='logo-carousel__item' alt='Evans Cycles logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/moonpig-200x73.png' class='logo-carousel__item' alt='moonpig logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/m-and-s-200x73.png' class='logo-carousel__item' alt='marks and spencers logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/just-eat-200x73.png' class='logo-carousel__item' alt='Just eat logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/not-on-the-high-st-200x73.png' class='logo-carousel__item' alt='Not on the High street logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/people-plus-200x73.png' class='logo-carousel__item' alt='people-plus' data-loading='lazy'/></div></div><div class='logo-group-container'><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/rac-200x73.png' class='logo-carousel__item' alt='RAC logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/national-trust-logo-200x73.png' class='logo-carousel__item' alt='National Trust logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/quidco-200x73.png' class='logo-carousel__item' alt='quidco' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/voip-developments-200x73.png' class='logo-carousel__item' alt='voip logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/u-logo-orange-200x73.png' class='logo-carousel__item' alt='U logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/barrat-developments-200x73.png' class='logo-carousel__item' alt='Barrat Developments logo' data-loading='lazy'/></div></div><div class='logo-group-container'><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/equiom-logo-200x73.png' class='logo-carousel__item' alt='equiom logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/1st-credit-200x73.png' class='logo-carousel__item' alt='1st Credit logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2020/02/conosco-new-PNG--218x73.png' class='logo-carousel__item' alt='conosco new PNG' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/domestic-general-200x73.png' class='logo-carousel__item' alt='domestic general logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/everton-logo-200x73.png' class='logo-carousel__item' alt='Everton logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/shop-direct-200x73.png' class='logo-carousel__item' alt='Shop Direct logo' data-loading='lazy'/></div></div><div class='logo-group-container'><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/dixons-carphone-200x73.png' class='logo-carousel__item' alt='Dixons Carphone logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/simmonds-and-simmonds-200x73.png' class='logo-carousel__item' alt='simmonds and simmonds logo' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/Virtual-Cabinet-Logo-Pink-and-dark-grey-451x73.png' class='logo-carousel__item' alt='Virtual Cabinet Logo - Pink and dark grey' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2019/10/Advanced-icon-rgb-CUSTOMER-84x73.png' class='logo-carousel__item' alt='Advanced icon-rgb- CUSTOMER' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2020/03/Snoop_Logo-BlueTransparent-002-167x73.png' class='logo-carousel__item' alt='Snoop_Logo-BlueTransparent (002)' data-loading='lazy'/></div><div class='image-wrap'><img src='https://www.surecloud.com/wp-content/uploads/2020/07/ATLogo_RGB_TWO_COLOUR-601x73.png' class='logo-carousel__item' alt='ATLogo_RGB_TWO_COLOUR' data-loading='lazy'/></div></div><div class='logo-group-container'></div>			</div>
+
+        </div>
+    </div>
+</div>
+            
+
+<div id="get-started" class="outer-container gatway-form form-block form-block-light">
+    <div class="container">
+        <div class="col-xs-12">
+            <div class="form">
+                <h2>How can we help?</h2>
+                <!--[if lte IE 8]>
+                <script src="//js.hsforms.net/forms/v2-legacy.js"></script>
+                <![endif]-->
+                <script src="https://js.hsforms.net/forms/v2.js"></script>
+                <script>
+                    hbspt.forms.create({
+                    portalId: "1951667",
+                    formId: "70c1ad7d-f5e8-43af-9a2a-0a489a9dad6f",
+                    sfdcCampaignId: "7010N000000mearQAA"
+                    });
+                </script>
+            </div>
+        </div>
+    </div>
+</div>                    
+
+								</div>
+			<footer>
+    <div class="footer-wrap">
+    <!-- GATEWAY PAGE MENU -->
+        <div class="footer-container row center-xs">            
+                                <ul class="footer-dropdown gateway-list"><li id="menu-item-7344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7344"><a href="https://www.surecloud.com/products/">GRC</a>
+<ul class="sub-menu">
+	<li id="menu-item-7346" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7346"><a href="https://www.surecloud.com/products/categories/it-risk-management">IT Risk Management and Cybersecurity</a></li>
+	<li id="menu-item-8761" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8761"><a href="https://www.surecloud.com/products/categories/data-privacy-management">Data Privacy Management</a></li>
+	<li id="menu-item-8762" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8762"><a href="https://www.surecloud.com/products/categories/compliance-management/">Compliance Management Solutions</a></li>
+	<li id="menu-item-8763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8763"><a href="https://www.surecloud.com/products/categories/vendor-risk-management">Vendor Risk Management</a></li>
+	<li id="menu-item-8764" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8764"><a href="https://www.surecloud.com/products/cloud-platform/">The SureCloud Platform</a></li>
+</ul>
+</li>
+<li id="menu-item-9316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9316"><a href="https://www.surecloud.com/services/">Cyber Security</a>
+<ul class="sub-menu">
+	<li id="menu-item-9102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9102"><a href="https://www.surecloud.com/services/cyber-risk/penetration-testing/">Penetration Testing</a></li>
+	<li id="menu-item-9103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9103"><a href="https://www.surecloud.com/services/cyber-risk/assessments">Security &amp; Risk Assessment Services</a></li>
+	<li id="menu-item-8768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8768"><a href="https://www.surecloud.com/services/cyber-risk/information-assurance-governance/">Information Assurance and Governance</a></li>
+	<li id="menu-item-8769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8769"><a href="https://www.surecloud.com/services/cyber-risk/managed">Managed Delivery</a></li>
+	<li id="menu-item-8770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8770"><a href="https://www.surecloud.com/services/cyber-risk/specialist/">Specialist Services</a></li>
+</ul>
+</li>
+</ul>                    </div>
+    
+        <div class="footer-container row center-xs">
+            <div class="col-xs-12 col-sm-3">
+                <ul>
+                    <li>
+                        <span>Other information</span>
+                        <ul class="no-style-list"><li id="menu-item-133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.surecloud.com/legal/">Legal</a></li>
+<li id="menu-item-132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132"><a href="https://www.surecloud.com/cookies/">Cookies</a></li>
+<li id="menu-item-3943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3943"><a href="https://www.surecloud.com/privacy-statement/">Privacy</a></li>
+<li><a href="javascript: Cookiebot.renew()">Cookie Preferences</a></li></ul>                    </li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+                                    <ul class="footer-menu"><li id="menu-item-6719" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6719"><a href="https://www.surecloud.com/products/about-us/">About SureCloud</a>
+<ul class="sub-menu">
+	<li id="menu-item-6720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6720"><a href="https://www.surecloud.com/products/about-us/careers/">Careers</a></li>
+	<li id="menu-item-6721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6721"><a href="https://www.surecloud.com/products/about-us/management-team/">Management Team</a></li>
+	<li id="menu-item-6722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6722"><a href="https://www.surecloud.com/products/partners/">Partners</a></li>
+</ul>
+</li>
+<li id="menu-item-8889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-6723 current_page_item menu-item-8889"><a href="30" aria-current="page">Corporate</a></li>
+<li id="menu-item-9874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9874"><a href="https://www.surecloud.com/us/products">North America</a></li>
+<li id="menu-item-10708" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10708"><a href="https://www.gartner.com/reviews/market/integrated-risk-management/vendor/surecloud/product/surecloud-platform">Gartner Reviews</a></li>
+</ul>                            </div>
+            <div class="col-xs-12 col-sm-3">
+                                    <ul class="footer-menu"><li id="menu-item-5317" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5317"><a href="https://www.surecloud.com/products/contact-us">Contact Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-2688" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2688"><a href="https://www.surecloud.com/products/contact-us">UK: +44 (0) 208 012 8544</a></li>
+	<li id="menu-item-2689" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2689"><a href="https://www.surecloud.com/contact-us">US: (+1) (972) 996-6989</a></li>
+</ul>
+</li>
+</ul>                            </div>
+            <div class="col-xs-12 col-sm-3">
+
+                            <h4>Headquarters</h4>
+                <p>9 Greyfriars Road, Reading, RG1 1NU</p>
+                <h4>London Office</h4>
+                <p>25 Wilton Road, Victoria, London, Greater London SW1V 1LW (Effective 1st October)</p>
+                <h4>US Headquarters</h4>
+                <p>6010 W. Spring Creek Pkwy. Plano, TX 75024</p>
+                        </div>
+        </div>
+
+                    <div class="footer-container row overline center-xs">
+                <div class="accreditation-logo">
+            <img width="116" height="48" src="https://www.surecloud.com/wp-content/uploads/2019/08/assuredserviceprovider_iaw_ncsc_logo_col.png" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+                <div class="accreditation-logo">
+            <img width="96" height="39" src="https://www.surecloud.com/wp-content/uploads/2019/08/check.png" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+                <div class="accreditation-logo">
+            <img width="40" height="53" src="https://www.surecloud.com/wp-content/uploads/2019/08/crest.png" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+                <div class="accreditation-logo">
+            <img width="120" height="32" src="https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-120x32.png" class="attachment-small size-small" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-120x32.png 120w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-250x68.png 250w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-700x189.png 700w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-768x208.png 768w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-750x203.png 750w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-270x73.png 270w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest-296x80.png 296w, https://www.surecloud.com/wp-content/uploads/2019/11/Banner_CRESTVAPTSTAR-ILP-grey-trans-no-crest.png 1309w" sizes="(max-width: 120px) 100vw, 120px" />        </div>
+                <div class="accreditation-logo">
+            <img width="57" height="48" src="https://www.surecloud.com/wp-content/uploads/2019/08/cyber-essentials.png" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+                <div class="accreditation-logo">
+            <img width="120" height="37" src="https://www.surecloud.com/wp-content/uploads/2019/08/isf-120x37.png" class="attachment-small size-small" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2019/08/isf-120x37.png 120w, https://www.surecloud.com/wp-content/uploads/2019/08/isf.png 142w" sizes="(max-width: 120px) 100vw, 120px" />        </div>
+                <div class="accreditation-logo">
+            <img width="120" height="73" src="https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-120x73.png" class="attachment-small size-small" alt="" loading="lazy" srcset="https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-120x73.png 120w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-250x151.png 250w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-700x423.png 700w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-768x464.png 768w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-1536x928.png 1536w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-2048x1238.png 2048w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-750x453.png 750w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-121x73.png 121w, https://www.surecloud.com/wp-content/uploads/2020/03/ISO27k-Assurance-Mark-SureCloud-IS-664769-White-132x80.png 132w" sizes="(max-width: 120px) 100vw, 120px" />        </div>
+                <div class="accreditation-logo">
+            <img width="82" height="59" src="https://www.surecloud.com/wp-content/uploads/2019/08/pci.png" class="attachment-small size-small" alt="" loading="lazy" />        </div>
+        </div>
+
+		
+
+        <div class="footer-container row overline center-xs">
+            <div class="col-xs-12 col-sm-8">
+                <ul class="social-links">
+                    <li>
+                        <span class="sr-only">Social links</span>
+                        <ul>
+                            <li>
+                                <a href="https://www.linkedin.com/company/surecloud" target="_blank" rel="noreferrer">
+                                    <span class="visuallyHidden">LinkedIn</span>
+                                    <i class="icon-linkedin" title="LinkedIn"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/surecloud" target="_blank" rel="noreferrer">
+                                    <span class="visuallyHidden">Twitter</span>
+                                    <i class="icon-twitter" title="Twitter"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.facebook.com/SureCloud-134371966598921" target="_blank" rel="noreferrer">
+                                    <span class="visuallyHidden">Facebook</span>
+                                    <i class="icon-facebook" title="Facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/user/SureCloudTV?feature=watch" target="_blank" rel="noreferrer">
+                                    <span class="visuallyHidden">YouTube</span>
+                                    <i class="icon-youtube-play" title="YouTube"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/surecloud/?hl=en" target="_blank" rel="noreferrer">
+                                    <span class="visuallyHidden">Instagram</span>
+                                    <i class="icon-instagram" title="Instagram"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            
+            <div class="col-xs-12 col-sm-4 copyright-text">
+                <p class="copyright">&copy; SureCloud 2020. All rights reserved.</p>
+            </div>
+
+        </div>
+    </div>
+</footer>		</div>
+             		<script>
+			!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+			},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+			a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+			// Insert Twitter Pixel ID and Standard Event data below
+			twq('init','nyu5w');
+			twq('track','PageView');
+		</script>
+		<!-- <script id="hs-script-loader" async defer src="//js.hs-scripts.com/1951667.js"></script> -->
+		<script type='text/javascript' src='https://www.surecloud.com/wp-content/themes/surecloud/assets/js/vendors.js?ver=7.0.29'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"7.35.2"};
+/* ]]> */
+</script>
+<script async defer id="hs-script-loader" type='text/javascript' src='https://js.hs-scripts.com/1951667.js?integration=WordPress'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var headJS = {"ajaxurl":"https:\/\/www.surecloud.com\/wp-admin\/admin-ajax.php","templateurl":"https:\/\/www.surecloud.com\/wp-content\/themes\/surecloud","posts_per_page":"9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.surecloud.com/wp-content/themes/surecloud/assets/js/custom.js?ver=7.0.29'></script>
+<script type='text/javascript' src='https://www.surecloud.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2b171193f1","applicationID":"87744494","transactionName":"YwcEZEZQWEVZUEYPDlpNJ1NAWFlYF1VACQ9ATxZRU1Q=","queueTime":0,"applicationTime":1173,"atts":"T0AHEg5KS0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 327/332 objects using apc
+Page Caching using disk: enhanced (SSL caching disabled) 
+Database Caching 4/19 queries in 0.004 seconds using memcached (Request-wide DONOTCACHEDB constant defined)
+
+Served from: www.surecloud.com @ 2020-07-20 18:56:44 by W3 Total Cache
+-->

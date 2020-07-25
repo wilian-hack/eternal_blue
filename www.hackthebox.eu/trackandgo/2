@@ -1,0 +1,789 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://twelvesec.com/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<script>var et_site_url='https://twelvesec.com';var et_post_id='558';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script>
+	<!-- This site is optimized with the Yoast SEO plugin v14.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>HOME - Twelvesec</title>
+	<meta name="description" content="TwelveSec homepage" />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="2" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="HOME - Twelvesec" />
+	<meta property="og:description" content="TwelveSec homepage" />
+	<meta property="og:url" content="https://twelvesec.com/" />
+	<meta property="og:site_name" content="Twelvesec" />
+	<meta property="article:modified_time" content="2020-07-11T14:08:58+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://twelvesec.com/#website","url":"https://twelvesec.com/","name":"Twelvesec","description":"Your Partner in Cyber Security","potentialAction":[{"@type":"SearchAction","target":"https://twelvesec.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://twelvesec.com/#webpage","url":"https://twelvesec.com/","name":"HOME - Twelvesec","isPartOf":{"@id":"https://twelvesec.com/#website"},"datePublished":"2018-06-01T15:50:28+00:00","dateModified":"2020-07-11T14:08:58+00:00","description":"TwelveSec homepage","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://twelvesec.com/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='https://www.google.com/' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
+<link rel="alternate" type="application/rss+xml" title="Twelvesec &raquo; Feed" href="https://twelvesec.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Twelvesec &raquo; Comments Feed" href="https://twelvesec.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/twelvesec.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="twelvesec v.1.0.0" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://twelvesec.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://twelvesec.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://twelvesec.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://twelvesec.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=1.8.8' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-stop-stacking-css'  href='https://twelvesec.com/wp-content/plugins/divi-stop-stacking/css/divi-stop-stacking.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mhmm-menus-css'  href='https://twelvesec.com/wp-content/plugins/mhmm/css/mhmm-menus.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mhmm-menu-layout-css'  href='https://twelvesec.com/wp-content/plugins/mhmm/css/mhmm-menu-layout.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mhmm-css'  href='https://twelvesec.com/wp-content/plugins/mhmm/css/mhmm.css?ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://twelvesec.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='et_monarch-css-css'  href='https://twelvesec.com/wp-content/plugins/monarch/css/style.css?ver=1.4.12' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://twelvesec.com/wp-content/themes/twelvesec/style.css?ver=4.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='et-builder-googlefonts-cached-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='https://twelvesec.com/wp-content/themes/Divi/epanel/shortcodes/css/shortcodes_responsive.css?ver=4.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://twelvesec.com/wp-content/themes/Divi/includes/builder/styles/magnific_popup.css?ver=4.4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://twelvesec.com/wp-includes/css/dashicons.min.css?ver=5.4.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://twelvesec.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[]};
+var log_object = {"ajax_url":"https:\/\/twelvesec.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=1.8.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var html = "<div id=\"ts-header-full\" class=\"et_pb_section et_pb_section_0 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<div id=\"headerScroll\" class=\"et_pb_row et_pb_row_0 et_pb_row_fullwidth et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_code et_pb_code_0\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_code_inner\"><ul class=\"header-socials-list\">\n<li><a href="https://twelvesec.com/\&quot;https:\/\/www.facebook.com\/TwelveSec\/\&quot;" class=\"header-facebook\" target=\"_blank\" rel=\"noopener noreferrer\"><\/a><\/li>\n<li><a href="https://twelvesec.com/\&quot;https:\/\/twitter.com\/twelvesec\&quot;" class=\"header-twitter\" target=\"_blank\" rel=\"noopener noreferrer\"><\/a><\/li>\n<li><a href="https://twelvesec.com/\&quot;https:\/\/www.linkedin.com\/company\/twelvesec\/\&quot;" class=\"header-linkedin\" target=\"_blank\" rel=\"noopener noreferrer\"><\/a><\/li>\n<li><a href="https://twelvesec.com/\&quot;https:\/\/github.com\/twelvesec\&quot;" class=\"header-github\" target=\"_blank\" rel=\"noopener noreferrer\"><i class=\"fa fa-github\"><\/i><\/a><\/li>\n<\/ul><\/div>\n\t\t\t<\/div> <!-- .et_pb_code -->\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_2 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_0 logo_img\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\&quot;"><span class=\"et_pb_image_wrap \"><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/03\/logo2.png\&quot;" alt=\"\" title=\"\" \/><\/span><\/a>\n\t\t\t<\/div><div class=\"divi-stop-stacking et_pb_stop_stacking_0\"><\/div>\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_4 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_right et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><div class=\"blog_btn\"><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/02\/ts-symbol-colour-dark-1.png\&quot;" alt=\"\" width=\"50\" height=\"43\"><a class=\"blog_link\" href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/blog\/\&quot;">BLOG<\/a><\/div>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text -->\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row --><div class=\"et_pb_row et_pb_row_1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<style>@media only screen and ( max-width: 600px ) {.et_pb_mhmm_inline_menu_0 {display: none;}}<\/style><div class=\"et_pb_mhmm_inline_menu et_pb_mhmm_inline_menu_0 \" ><nav class=\"mhmm-inline-menu show-parent-icon transition-fade\"><ul id = \"menu-main-mega\" class = \"menu\"><li id=\"menu-item-4942\" class=\"mhmm-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-4942\"><a href="https://twelvesec.com/\&quot;#mhmm-4937\"">SERVICES<\/a><\/li>\n<li id=\"menu-item-4946\" class=\"mhmm-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-4946\"><a href="https://twelvesec.com/\&quot;#mhmm-5012\"">SECTORS<\/a><\/li>\n<li id=\"menu-item-4943\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4943\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/free-tools\/\&quot;">TOOLS<\/a><\/li>\n<li id=\"menu-item-6289\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-6289\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/blog\/\&quot;">BLOG<\/a><\/li>\n<li id=\"menu-item-5225\" class=\"mhmm-hover menu-item menu-item-type-custom menu-item-object-custom menu-item-5225\"><a href="https://twelvesec.com/\&quot;#mhmm-5369\"">ABOUT US<\/a><\/li>\n<\/ul><\/nav><\/div>\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_section --><div id=\"ts-header-mob\" class=\"et_pb_section et_pb_section_1 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<div class=\"et_pb_row et_pb_row_2 et_pb_row_fullwidth et_pb_gutters1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_1 logo_img\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\&quot;"><span class=\"et_pb_image_wrap \"><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/03\/logo2.png\&quot;" alt=\"\" title=\"\" \/><\/span><\/a>\n\t\t\t<\/div><div class=\"divi-stop-stacking et_pb_stop_stacking_1\"><\/div>\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<style>@media only screen and ( min-width: 601px ) {.et_pb_mhmm_menu_0 {display: none;}}<\/style><div class=\"et_pb_mhmm_menu et_pb_mhmm_menu_0 menu-style-slide_right menu-button-align-center\" ><a class=\"menu-button\"><div><\/div><\/a><a class=\"menu-button-close\"><\/a><div class=\"menu-overlay\"><\/div><nav data-back-text=\"Back\"><ul id = \"menu-main\" class = \"menu\"><li id=\"menu-item-6196\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6196\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\/\&quot;">SERVICES<\/a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-6244\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-6244\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\/\&quot;">Security Assurance<\/a><\/li>\n\t<li id=\"menu-item-6245\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-6245\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\/#management\"">Security Management<\/a><\/li>\n\t<li id=\"menu-item-6246\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-6246\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\/#training\"">Security Training<\/a><\/li>\n<\/ul>\n<\/li>\n<li id=\"menu-item-2248\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2248\"><a>SECTORS<\/a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-4519\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4519\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/cyber-security-aerospace-industry\/\&quot;">Aerospace<\/a><\/li>\n\t<li id=\"menu-item-4535\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4535\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/cyber-security-automotive-industry\/\&quot;">Automotive<\/a><\/li>\n\t<li id=\"menu-item-4549\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4549\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/defence-industry\/\&quot;">Defence<\/a><\/li>\n\t<li id=\"menu-item-4570\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4570\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/finance\/\&quot;">Finance<\/a><\/li>\n\t<li id=\"menu-item-4598\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4598\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/healthcare-industry\/\&quot;">Healthcare<\/a><\/li>\n\t<li id=\"menu-item-4615\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4615\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/law-enforcement-security-agencies\/\&quot;">Law enforcement &#038; Security agencies<\/a><\/li>\n\t<li id=\"menu-item-4628\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4628\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/manufacturing\/\&quot;">Manufacturing<\/a><\/li>\n\t<li id=\"menu-item-3741\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3741\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/maritime-industry\/\&quot;">Maritime<\/a><\/li>\n\t<li id=\"menu-item-4344\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4344\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/public-sector\/\&quot;">Public sector<\/a><\/li>\n\t<li id=\"menu-item-4682\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4682\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/rail-industry\/\&quot;">Rail<\/a><\/li>\n\t<li id=\"menu-item-4710\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4710\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/retail\/\&quot;">Retail<\/a><\/li>\n\t<li id=\"menu-item-4707\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4707\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/software-development\/\&quot;">Software development<\/a><\/li>\n\t<li id=\"menu-item-4724\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4724\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/telecommunications-industry\/\&quot;">Telecommunications<\/a><\/li>\n\t<li id=\"menu-item-4736\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4736\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/tourism-industry\/\&quot;">Tourism<\/a><\/li>\n<\/ul>\n<\/li>\n<li id=\"menu-item-888\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-888\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/free-tools\/\&quot;">TOOLS<\/a><\/li>\n<li id=\"menu-item-6199\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-6199\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/blog\/\&quot;">BLOG<\/a><\/li>\n<li id=\"menu-item-5419\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5419\"><a>ABOUT US<\/a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-4020\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-4020\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/twelvesec\/\&quot;">Twelvesec<\/a><\/li>\n\t<li id=\"menu-item-3813\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-3813\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/selected-clients\/\&quot;">Clients<\/a><\/li>\n\t<li id=\"menu-item-6197\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-6197\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/careers\/\&quot;">Careers<\/a><\/li>\n\t<li id=\"menu-item-7441\" class=\"menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7441\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/category\/news\/\&quot;">News<\/a><\/li>\n\t<li id=\"menu-item-6198\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-6198\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/contact-us\/\&quot;">Contact<\/a><\/li>\n<\/ul>\n<\/li>\n<\/ul><\/nav><\/div>\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_section -->";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/mhmm/js/mhmm.min.js?ver=2.1.19'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mhmm_menu_layout = {"ajaxurl":"https:\/\/twelvesec.com\/wp-admin\/admin-ajax.php","layouts":{"5369":{"iframe":"<iframe class=\"mhmm-menu-layout-iframe\" src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/mhmm-menu-layout-loader\/?mhmm_menu_layout_id=5369\&quot;" scrolling=\"yes\"><\/iframe>","content":"<div class=\"et_pb_section et_pb_section_2 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<div class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_2\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/06\/team.jpg\&quot;" alt=\"\" title=\"\" \/><\/span>\n\t\t\t<\/div>\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_1 mega-menu-text  et_pb_text_align_justified et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4>Explore our trek through time<\/h4>\r\nLearn about TwelveSec, our history, our philosphy, our people, and our business endeavours. And if you want to learn more feel free to drop us a line, we are always happy to answer.\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text -->\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_8  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_with_border et_pb_module et_pb_sidebar_0 et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light et_pb_sidebar_no_border\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div id=\"nav_menu-12\" class=\"et_pb_widget widget_nav_menu\"><div class=\"menu-about-mega-menu-container\"><ul id=\"menu-about-mega-menu\" class=\"menu\"><li id=\"menu-item-5474\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5474\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/twelvesec\/\&quot;">TWELVESEC<\/a><\/li>\n<li id=\"menu-item-5475\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5475\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/selected-clients\/\&quot;">CLIENTS<\/a><\/li>\n<li id=\"menu-item-5568\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5568\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/careers\/\&quot;">CAREERS<\/a><\/li>\n<li id=\"menu-item-7153\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-7153\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/news\/\&quot;">NEWS<\/a><\/li>\n<li id=\"menu-item-5617\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5617\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/contact-us\/\&quot;">CONTACT<\/a><\/li>\n<\/ul><\/div><\/div> <!-- end .et_pb_widget -->\n\t\t\t<\/div> <!-- .et_pb_widget_area -->\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_section -->","transition":"fade","background":"dark","close":"","close_color":"rgba(255,255,255,0)","close_background_color":"rgba(224,122,116,0)"},"5012":{"iframe":"<iframe class=\"mhmm-menu-layout-iframe\" src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/mhmm-menu-layout-loader\/?mhmm_menu_layout_id=5012\&quot;" scrolling=\"yes\"><\/iframe>","content":"<div class=\"et_pb_section et_pb_section_3 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<div class=\"et_pb_row et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_9  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_3\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/04\/sectors-all.jpg\&quot;" alt=\"\" title=\"\" \/><\/span>\n\t\t\t<\/div><div class=\"et_pb_module et_pb_text et_pb_text_2 mega-menu-text  et_pb_text_align_justified et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h4 style=\"text-align: left;\">Explore what can we offer you for your specific sector<\/h4><p>Take advantage of our experience in your own industry, explore how TwelveSec can help you with industry specific problems.<\/p>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text -->\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div id=\"sector-mega-sidebar1\" class=\"et_pb_module et_pb_sidebar_1 et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light et_pb_sidebar_no_border\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div id=\"nav_menu-10\" class=\"et_pb_widget widget_nav_menu\"><div class=\"menu-sector-mega1-container\"><ul id=\"menu-sector-mega1\" class=\"menu\"><li id=\"menu-item-5014\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5014\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/cyber-security-aerospace-industry\/\&quot;">AEROSPACE<\/a><\/li>\n<li id=\"menu-item-5015\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5015\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/cyber-security-automotive-industry\/\&quot;">AUTOMOTIVE<\/a><\/li>\n<li id=\"menu-item-5016\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5016\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/defence-industry\/\&quot;">DEFENCE<\/a><\/li>\n<li id=\"menu-item-5017\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5017\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/finance\/\&quot;">FINANCE<\/a><\/li>\n<li id=\"menu-item-5018\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5018\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/healthcare-industry\/\&quot;">HEALTHCARE<\/a><\/li>\n<li id=\"menu-item-5019\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5019\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/law-enforcement-security-agencies\/\&quot;">LAW ENFORCEMENT &#038; SECURITY AGENCIES<\/a><\/li>\n<li id=\"menu-item-5020\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5020\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/manufacturing\/\&quot;">MANUFACTURING<\/a><\/li>\n<\/ul><\/div><\/div> <!-- end .et_pb_widget -->\n\t\t\t<\/div> <!-- .et_pb_widget_area -->\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_sidebar_2 et_pb_widget_area clearfix et_pb_widget_area_left et_pb_bg_layout_light et_pb_sidebar_no_border\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div id=\"nav_menu-11\" class=\"et_pb_widget widget_nav_menu\"><div class=\"menu-sector-mega2-container\"><ul id=\"menu-sector-mega2\" class=\"menu\"><li id=\"menu-item-5021\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5021\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/maritime-industry\/\&quot;">MARITIME<\/a><\/li>\n<li id=\"menu-item-5022\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5022\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/public-sector\/\&quot;">PUBLIC SECTOR<\/a><\/li>\n<li id=\"menu-item-5023\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5023\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/rail-industry\/\&quot;">RAIL<\/a><\/li>\n<li id=\"menu-item-5024\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5024\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/retail\/\&quot;">RETAIL<\/a><\/li>\n<li id=\"menu-item-5025\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5025\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/software-development\/\&quot;">SOFTWARE DEVELOPMENT<\/a><\/li>\n<li id=\"menu-item-5026\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5026\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/telecommunications-industry\/\&quot;">TELECOMMUNICATIONS<\/a><\/li>\n<li id=\"menu-item-5027\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-5027\"><a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/tourism-industry\/\&quot;">TOURISM<\/a><\/li>\n<\/ul><\/div><\/div> <!-- end .et_pb_widget -->\n\t\t\t<\/div> <!-- .et_pb_widget_area -->\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_section -->","transition":"fade","background":"dark","close":"","close_color":"#ffffff","close_background_color":"#e02b20"},"4937":{"iframe":"<iframe class=\"mhmm-menu-layout-iframe\" src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/mhmm-menu-layout-loader\/?mhmm_menu_layout_id=4937\&quot;" scrolling=\"yes\"><\/iframe>","content":"<div class=\"et_pb_section et_pb_section_4 et_pb_with_background et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\t<div class=\"et_pb_row et_pb_row_5 sec-thumbs\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_3 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2>SECURITY <strong>ASSURANCE<\/strong><\/h2>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_module et_pb_text et_pb_text_4 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>Be pro-active<\/p>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_with_border et_pb_module et_pb_image et_pb_image_4 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\&quot;"><span class=\"et_pb_image_wrap has-box-shadow-overlay\"><div class=\"box-shadow-overlay\"><\/div><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/04\/assurance-th7.jpg\&quot;" alt=\"\" title=\"\" \/><\/span><\/a>\n\t\t\t<\/div><div class=\"et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_left et_pb_module \">\n\t\t\t\t<a class=\"et_pb_button et_pb_button_0 et_hover_enabled et_pb_bg_layout_light\" href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services\&quot;">FIND OUT MORE<\/a>\n\t\t\t<\/div>\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_5 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2>SECURITY <strong>MANAGEMENT<\/strong><\/h2>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_module et_pb_text et_pb_text_6 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>Security is not just technical staff<\/p>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_with_border et_pb_module et_pb_image et_pb_image_5 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services#management\""><span class=\"et_pb_image_wrap has-box-shadow-overlay\"><div class=\"box-shadow-overlay\"><\/div><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/04\/management-th6.jpg\&quot;" alt=\"\" title=\"\" \/><\/span><\/a>\n\t\t\t<\/div><div class=\"et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_left et_pb_module \">\n\t\t\t\t<a class=\"et_pb_button et_pb_button_1 et_hover_enabled et_pb_bg_layout_light\" href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services#management\"">FIND OUT MORE<\/a>\n\t\t\t<\/div>\n\t\t\t<\/div> <!-- .et_pb_column --><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_7 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><h2>SECURITY <strong>TRAINING<\/strong><\/h2>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_module et_pb_text et_pb_text_8 et_clickable  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p>We share our know-how<\/p>\r<\/div>\n\t\t\t<\/div> <!-- .et_pb_text --><div class=\"et_pb_with_border et_pb_module et_pb_image et_pb_image_6 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<a href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services#training\""><span class=\"et_pb_image_wrap has-box-shadow-overlay\"><div class=\"box-shadow-overlay\"><\/div><img src="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/wp-content\/uploads\/2019\/04\/training-th6.jpg\&quot;" alt=\"\" title=\"\" \/><\/span><\/a>\n\t\t\t<\/div><div class=\"et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_left et_pb_module \">\n\t\t\t\t<a class=\"et_pb_button et_pb_button_2 et_hover_enabled et_pb_bg_layout_light\" href="https://twelvesec.com/\&quot;https:\/\/twelvesec.com\/services#training\"">FIND OUT MORE<\/a>\n\t\t\t<\/div>\n\t\t\t<\/div> <!-- .et_pb_column -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_row -->\n\t\t\t\t\n\t\t\t\t\n\t\t\t<\/div> <!-- .et_pb_section -->","transition":"fade","background":"dark","close":"","close_color":"#ffffff","close_background_color":"#e02b20"}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/mhmm/js/mhmm-menu-layout.min.js?ver=2.1.19'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"twelvesec_com"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4.2'></script>
+<link rel='https://api.w.org/' href='https://twelvesec.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://twelvesec.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://twelvesec.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='2' />
+<link rel="alternate" type="application/json+oembed" href="https://twelvesec.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftwelvesec.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://twelvesec.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftwelvesec.com%2F&#038;format=xml" />
+<style type="text/css" id="et-social-custom-css">
+				 .et_monarch .et_social_flyin .et_social_circle .et_social_icons_container li i, .et_monarch .et_social_flyin li { background: #3b3a3c; } .et_monarch .et_social_flyin .et_social_circle .et_social_icons_container li:hover i, .et_monarch .et_social_flyin .et_social_rounded .et_social_icons_container li:hover, .et_monarch .et_social_flyin .et_social_rectangle .et_social_icons_container li:hover { background: #000000 !important; } 
+			</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"><link rel="icon" href="https://twelvesec.com/wp-content/uploads/2019/02/symbol-footer.png" sizes="32x32" />
+<link rel="icon" href="https://twelvesec.com/wp-content/uploads/2019/02/symbol-footer.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://twelvesec.com/wp-content/uploads/2019/02/symbol-footer.png" />
+<meta name="msapplication-TileImage" content="https://twelvesec.com/wp-content/uploads/2019/02/symbol-footer.png" />
+<link rel="stylesheet" id="et-core-unified-558-cached-inline-styles" href="https://twelvesec.com/wp-content/et-cache/558/et-core-unified-558-15944765372257.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body class="home page-template-default page page-id-558 custom-background mhmm-sticky-top using-mhmm et_bloom et_monarch et_button_no_icon et_pb_button_helper_class et_non_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter linux et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db">
+	<div id="page-container">
+
+	
+	
+			<header id="main-header" data-height-onload="30">
+			<div class="container clearfix et_menu_container">
+							<div class="logo_container">
+					<span class="logo_helper"></span>
+					<a href="2">
+						<img src="https://twelvesec.com/wp-content/uploads/2019/03/logo2.png" alt="Twelvesec" id="logo" data-height-percentage="85" />
+					</a>
+				</div>
+							<div id="et-top-navigation" data-height="30" data-fixed-height="47">
+											<nav id="top-menu-nav">
+						<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6196"><a href="https://twelvesec.com/services/">SERVICES</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6244"><a href="https://twelvesec.com/services/">Security Assurance</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6245"><a href="https://twelvesec.com/services/#management">Security Management</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6246"><a href="https://twelvesec.com/services/#training">Security Training</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2248"><a>SECTORS</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4519"><a href="https://twelvesec.com/cyber-security-aerospace-industry/">Aerospace</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4535"><a href="https://twelvesec.com/cyber-security-automotive-industry/">Automotive</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4549"><a href="https://twelvesec.com/defence-industry/">Defence</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4570"><a href="https://twelvesec.com/finance/">Finance</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4598"><a href="https://twelvesec.com/healthcare-industry/">Healthcare</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4615"><a href="https://twelvesec.com/law-enforcement-security-agencies/">Law enforcement &#038; Security agencies</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4628"><a href="https://twelvesec.com/manufacturing/">Manufacturing</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3741"><a href="https://twelvesec.com/maritime-industry/">Maritime</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4344"><a href="https://twelvesec.com/public-sector/">Public sector</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4682"><a href="https://twelvesec.com/rail-industry/">Rail</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4710"><a href="https://twelvesec.com/retail/">Retail</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4707"><a href="https://twelvesec.com/software-development/">Software development</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4724"><a href="https://twelvesec.com/telecommunications-industry/">Telecommunications</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4736"><a href="https://twelvesec.com/tourism-industry/">Tourism</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-888"><a href="https://twelvesec.com/free-tools/">TOOLS</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6199"><a href="https://twelvesec.com/blog/">BLOG</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5419"><a>ABOUT US</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4020"><a href="https://twelvesec.com/twelvesec/">Twelvesec</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3813"><a href="https://twelvesec.com/selected-clients/">Clients</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6197"><a href="https://twelvesec.com/careers/">Careers</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7441"><a href="https://twelvesec.com/category/news/">News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6198"><a href="https://twelvesec.com/contact-us/">Contact</a></li>
+</ul>
+</li>
+</ul>						</nav>
+					
+					
+					
+					
+					<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+			<div class="et_search_outer">
+				<div class="container et_search_form_container">
+					<form role="search" method="get" class="et-search-form" action="2">
+					<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />					</form>
+					<span class="et_close_search_field"></span>
+				</div>
+			</div>
+		</header> <!-- #main-header -->
+			<div id="et-main-area">
+	
+<div id="main-content">
+
+
+			
+				<article id="post-558" class="post-558 page type-page status-publish hentry">
+
+				
+					<div class="entry-content">
+					<div id="et-boc" class="et-boc">
+			
+		<div class="et-l et-l--post">
+			<div class="et_builder_inner_content et_pb_gutters3">
+		<div class="et_pb_section et_pb_section_5 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_6 container demo4 et_pb_row_fullwidth et_pb_gutters1">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_code et_pb_code_1">
+				
+				
+				<div class="et_pb_code_inner"><div id="large-header" class="large-header">
+ <canvas id="demo-canvas"></canvas>
+  <h1 class="main-title">Your Partner in Cyber Security</h1>
+ </div>
+
+</div>
+			</div> <!-- .et_pb_code -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_pb_fullwidth_section et_section_regular" >
+				
+				
+				
+				
+					<section class="et_pb_module et_pb_fullwidth_header et_pb_fullwidth_header_0 et_pb_section_parallax et_pb_text_align_center et_pb_bg_layout_dark">
+				<span class="et_parallax_bg_wrap"><span
+						class="et_parallax_bg et_pb_parallax_css"
+						style="background-image: url(https://twelvesec.com/wp-content/uploads/2019/04/home-background3.jpg);"
+					></span></span>
+				
+				<div class="et_pb_fullwidth_header_container center">
+					<div class="header-content-container center">
+					<div class="header-content">
+						
+						<h1 class="et_pb_module_header">Your Partner in Cyber Security</h1>
+						
+						<div class="et_pb_header_content_wrapper"></div>
+						
+					</div>
+				</div>
+					
+				</div>
+				<div class="et_pb_fullwidth_header_overlay"></div>
+				<div class="et_pb_fullwidth_header_scroll"></div>
+			</section>
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_7 sec-thumbs et_pb_gutters2">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_9  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>SECURITY <strong>ASSURANCE</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_10  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Be pro-active</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_7 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky">
+				
+				
+				<a href="https://twelvesec.com/services/"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/04/assurance-th7.jpg" alt="" title="" /></span></a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_3 et_hover_enabled et_pb_bg_layout_light" href="https://twelvesec.com/services/">FIND OUT MORE</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_11  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>SECURITY <strong>MANAGEMENT</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Security is not just technical staff</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_8 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky">
+				
+				
+				<a href="https://twelvesec.com/services/#management"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/04/management-th6.jpg" alt="" title="" /></span></a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_4 et_hover_enabled et_pb_bg_layout_light" href="https://twelvesec.com/services/#management">FIND OUT MORE</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>SECURITY <strong>TRAINING</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_14  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>We share our know-how</p></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_image et_pb_image_9 et_animated et_hover_enabled et_pb_section_video_on_hover et-waypoint et_pb_image_sticky">
+				
+				
+				<a href="https://twelvesec.com/services/#training"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/04/training-th6.jpg" alt="" title="" /></span></a>
+			</div><div class="et_pb_button_module_wrapper et_pb_button_5_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_5 et_hover_enabled et_pb_bg_layout_light" href="https://twelvesec.com/services/#training">FIND OUT MORE</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_8 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_8">
+				<div class="et_pb_column et_pb_column_1_2 et_pb_column_19  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_justified et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>During the 4th Industrial Revolution, Cyber-Security must be in the forefront. From global juggernauts to locally operating SMEs, keeping your organisation’s and your stakeholder’s information safe is imperative.</p>
+<p>&nbsp;</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_justified et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p>Here at TwelveSec we take pride in our ability to offer tailormade Cyber-Security services to meet everyone’s needs.</p>
+<p>Our people are here to help.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_9 et_pb_with_background et_section_specialty" >
+				
+				
+				
+				<div class="et_pb_row">
+					<div class="et_pb_column et_pb_column_1_2 et_pb_column_21   et_pb_specialty_column  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_row_inner et_pb_row_inner_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_inner et_pb_column_inner_0 et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_17  et_pb_text_align_justified et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>SECURITY <strong>SPECIALISTS</strong></h2></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_text et_pb_text_18  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h3>Who we are</h3></div>
+			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_divider et_pb_divider_0 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_19 et_animated  et_pb_text_align_justified et_pb_bg_layout_dark">
+				
+				
+				<div class="et_pb_text_inner"><p>Not another Cyber-Security Consultancy. Here at TwelveSec we actually care.</p>
+<p>We believe that trying to make the Internet a safer place for everyone should be a communal effort. This is the reason why we are always happy to contribute to the community.</p>
+<p>Our team is being led by a group of seasoned security specialists with extensive hands on experience on a global scale.</p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row_inner --><div class="et_pb_row_inner et_pb_row_inner_1">
+				<div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_1">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_6_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_6 et_hover_enabled et_pb_bg_layout_light" href="https://twelvesec.com/twelvesec/">ABOUT TWELVESEC</a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_inner et_pb_column_inner_2 et-last-child">
+				
+				
+				<div class="et_pb_button_module_wrapper et_pb_button_7_wrapper et_pb_button_alignment_left et_pb_module ">
+				<a class="et_pb_button et_pb_button_7 et_hover_enabled et_pb_bg_layout_light" href="https://twelvesec.com/people/">MEET THE TEAM</a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row_inner -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_2 et_pb_column_22    et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_10 et_animated et-waypoint">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/06/team.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				</div> <!-- .et_pb_row -->
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_10 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_9">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_1 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_20  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>COMPANY CERTIFICATIONS</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_11 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_10 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_24  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_11">
+				
+				
+				<a href="https://www.ukas.com/" target="_blank"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications1-iso1.jpg" alt="United Kingdom Accreditation Service" title="UKAS 9001" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_25  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_12">
+				
+				
+				<a href="https://www.ukas.com/" target="_blank"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications2-iso2-1.jpg" alt="United Kingdom Accreditation Service" title="UKAS 270001" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_26  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_13">
+				
+				
+				<a href="https://www.nato.int/" target="_blank"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/05/nato-otan-clearance-1.jpg" alt="OTAN " title="NATO Security Clearance" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_14">
+				
+				
+				<a href="https://europa.eu/european-union/index_en" target="_blank"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/05/european-union-clearance-1.jpg" alt="EU Security Clearance" title="European Union Security Clearance" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_28  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_15">
+				
+				
+				<a href="https://www.hellenicparliament.gr/en/" target="_blank"><span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/05/greece-clearance-1.jpg" alt="GR Security Clearance" title="Greece Security Clearance" /></span></a>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_12 et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_11">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_29  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_divider et_pb_divider_2 et_animated et_pb_divider_position_ et_pb_space"><div class="et_pb_divider_internal"></div></div><div class="et_pb_module et_pb_text et_pb_text_21  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><h2>PERSONNEL CERTIFICATIONS</h2></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_12 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_30  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_16">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications3-cisa.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_31  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_17">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications4-cism.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_32  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_18">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications5-crisc.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_33  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_19">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications6-oswp.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_20">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications7-oscp.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_13 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_35  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_21">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications8-cissp-1.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_36  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_22">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications9-cissp-issap.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_37  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_23">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications10-ceh.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_38  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_24">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications11-itil.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_39  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_25">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2018/12/certifications12-csslp.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_14 et_pb_equal_columns">
+				<div class="et_pb_column et_pb_column_1_5 et_pb_column_40  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_26">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2020/07/gpen.jpg" alt="GPEN" title="GPEN" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_41  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_27">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2020/07/gwapt.jpg" alt="GWAPT" title="GWAPT" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_42  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_image et_pb_image_28">
+				
+				
+				<span class="et_pb_image_wrap "><img src="https://twelvesec.com/wp-content/uploads/2019/06/sotp2.jpg" alt="" title="" /></span>
+			</div>
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_43  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_44  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
+				
+				
+				
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</div><!-- .et-l -->
+	
+			
+		</div><!-- #et-boc -->
+							</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+</div> <!-- #main-content -->
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+    <div id="footer-widgets" class="clearfix">
+		<div class="footer-widget"><div id="media_image-2" class="fwidget et_pb_widget widget_media_image"><img width="72" height="61" src="https://twelvesec.com/wp-content/uploads/2018/12/new-symbol-white-1.png" class="image wp-image-2969  attachment-full size-full" alt="" style="max-width: 100%; height: auto;" /></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="custom_html-2" class="widget_text fwidget et_pb_widget widget_custom_html"><h4 class="title">STAY CONNECTED</h4><div class="textwidget custom-html-widget"><a class="footer-link" href="https://twelvesec.com/cdn-cgi/l/email-protection#1c74797070735c686b79706a796f797f327f7371"><span class="__cf_email__" data-cfemail="345c5158585b744043515842514751571a575b59">[email&#160;protected]</span></a> <br>
+
+<p class="footer-p">+30 211 182 21 58</p>
+
+<a href="https://www.facebook.com/TwelveSec/" class="footer-facebook" target="_blank" rel="noopener noreferrer">
+</a>
+<a href="https://twitter.com/twelvesec" class="footer-twitter" target="_blank" rel="noopener noreferrer">
+</a>
+<a href="https://www.linkedin.com/company/twelvesec/" class="footer-linkedin" target="_blank" rel="noopener noreferrer">
+</a>
+<a href="https://github.com/twelvesec" class="footer-github" target="_blank" rel="noopener noreferrer"><i class="fa fa-github"></i>
+</a></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-8" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">LEGAL</h4><div class="menu-footer-legal-container"><ul id="menu-footer-legal" class="menu"><li id="menu-item-5727" class="footer-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5727"><a href="https://twelvesec.com/data-protection-policy/">DATA PROTECTION POLICY</a></li>
+<li id="menu-item-5548" class="footer-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5548"><a href="https://twelvesec.com/terms-and-conditions/">TERMS &#038; CONDITIONS</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="nav_menu-6" class="fwidget et_pb_widget widget_nav_menu"><h4 class="title">NAVIGATE</h4><div class="menu-footer-container"><ul id="menu-footer" class="menu"><li id="menu-item-5618" class="footer-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5618"><a href="https://twelvesec.com/contact-us/">CONTACT</a></li>
+<li id="menu-item-5564" class="footer-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5564"><a href="https://twelvesec.com/blog/">BLOG</a></li>
+<li id="menu-item-5565" class="footer-link menu-item menu-item-type-post_type menu-item-object-page menu-item-5565"><a href="https://twelvesec.com/careers/">CAREERS</a></li>
+</ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
+</div>    <!-- .container -->
+
+		
+				<div id="footer-bottom">
+					<div class="container clearfix">
+				<div id="footer-info">Copyright 2020 Twelvesec | Created by <a href="https://amiad.gr" target="_blank"><strong>Amiad</strong></a></div>					</div>	<!-- .container -->
+				</div>
+			</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<!--googleoff: all--><div id="cookie-law-info-bar"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. <br />
+ <a role='button' tabindex='0' id="cookie_action_close_header_reject"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header_reject cli_action_button"  data-cli_action="reject">REJECT</a><a role='button' tabindex='0' class="cli_settings_button" style="margin:5px 20px 5px 20px;" >Cookie settings</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block;  margin:5px; ">ACCEPT</a></span></div><div id="cookie-law-info-again" style="display:none;"><span id="cookie_hdr_showagain">Privacy & Cookies Policy</span></div><div class="cli-modal" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+    <div class="cli-modal-content cli-bar-popup">
+      <button type="button" class="cli-modal-close" id="cliModalClose">
+        <svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+        <span class="wt-cli-sr-only">Close</span>
+      </button>
+      <div class="cli-modal-body">
+        <div class="cli-container-fluid cli-tab-container">
+    <div class="cli-row">
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0">
+            <div class="cli-privacy-overview">
+                <h4>Privacy Overview</h4>                                   
+                <div class="cli-privacy-content">
+                    <div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these cookies, the cookies that are categorized as necessary are stored on your browser as they are as essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may have an effect on your browsing experience.</div>
+                </div>
+                <a class="cli-privacy-readmore" data-readmore-text="Show more" data-readless-text="Show less"></a>            </div>
+        </div>  
+        <div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+              
+                            <div class="cli-tab-section">
+                    <div class="cli-tab-header">
+                        <a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" >
+                            Necessary 
+                        </a>
+                    
+                    <span class="cli-necessary-caption">Always Enabled</span>                     </div>
+                    <div class="cli-tab-content">
+                        <div class="cli-tab-pane cli-fade" data-id="necessary">
+                            <p>Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.</p>
+                        </div>
+                    </div>
+                </div>
+              
+                       
+        </div>
+    </div> 
+</div> 
+      </div>
+    </div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<script data-cfasync="false" src="https://twelvesec.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+  /* <![CDATA[ */
+  cli_cookiebar_settings='{"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":false,"button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":true,"button_1_new_win":false,"button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":false,"button_2_hidebar":false,"button_3_button_colour":"#dd3333","button_3_button_hover":"#b12929","button_3_link_colour":"#fff","button_3_as_button":true,"button_3_new_win":false,"button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#dd3333","button_4_as_button":false,"font_family":"inherit","header_fix":false,"notify_animate_hide":true,"notify_animate_show":true,"notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":false,"scroll_close_reload":false,"accept_close_reload":true,"reject_close_reload":true,"showagain_tab":true,"showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":false,"show_once":"10000","logging_on":false,"as_popup":false,"popup_overlay":true,"bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"}';
+  /* ]]> */
+</script>
+<!--googleon: all-->	<script type="text/javascript">
+				var et_animation_data = [{"class":"et_pb_image_4","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_5","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_6","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_7","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_8","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_9","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_0","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_text_19","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_10","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_1","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_divider_2","style":"slideBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
+				var et_link_options_data = [{"class":"et_pb_text_3","url":"https:\/\/twelvesec.com\/services","target":"_self"},{"class":"et_pb_text_4","url":"https:\/\/twelvesec.com\/services","target":"_self"},{"class":"et_pb_text_5","url":"https:\/\/twelvesec.com\/services#management","target":"_self"},{"class":"et_pb_text_6","url":"https:\/\/twelvesec.com\/services#management","target":"_self"},{"class":"et_pb_text_7","url":"https:\/\/twelvesec.com\/services#training","target":"_self"},{"class":"et_pb_text_8","url":"https:\/\/twelvesec.com\/services#training","target":"_self"}];
+			</script>
+	<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/TweenLite.min.js"></script>
+<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/499416/EasePack.min.js"></script>
+<script src="https://twelvesec.com/demo.js"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-41479687-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-41479687-1');
+</script><link rel='stylesheet' id='et-gf-lato-css'  href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/frontend-builder/build/frontend-builder-global-functions.js?ver=4.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/twelvesec.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/divi-stop-stacking/js/divi-stop-stacking.min.js?ver=5.4.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdbC6oUAAAAAEIMst5mBAgeh2vm7joI3PULZMfu&#038;ver=3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LdbC6oUAAAAAEIMst5mBAgeh2vm7joI3PULZMfu","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/contact-form-7/modules/recaptcha/script.js?ver=5.2'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/monarch/js/idle-timer.min.js?ver=1.4.12'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monarchSettings = {"ajaxurl":"https:\/\/twelvesec.com\/wp-admin\/admin-ajax.php","pageurl":"https:\/\/twelvesec.com\/","stats_nonce":"8c9b4eb6c7","share_counts":"eadb408be2","follow_counts":"37b60c9510","total_counts":"4b87d8bbf8","media_single":"12e4a9df29","media_total":"c55d188864","generate_all_window_nonce":"a7d6e079c4","no_img_message":"No images available for sharing on this page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/plugins/monarch/js/custom.js?ver=1.4.12'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.mobile.custom.min.js?ver=4.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/js/custom.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.fitvids.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/scripts/ext/waypoints.min.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/scripts/ext/jquery.magnific-popup.js?ver=4.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_custom = {"ajaxurl":"https:\/\/twelvesec.com\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/twelvesec.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/twelvesec.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"f0797fb40f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"575d834349","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"558","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/includes/builder/frontend-builder/build/frontend-builder-scripts.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-content/themes/Divi/core/admin/js/common.js?ver=4.4.8'></script>
+<script type='text/javascript' src='https://twelvesec.com/wp-includes/js/wp-embed.min.js?ver=5.4.2'></script>
+</body>
+</html>

@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8">
+	<title>Parrot Security</title>
+
+	<!-- mobile responsive meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="description"
+		content="Professional tools for Pentesters and Hackers">
+	
+	<meta name="author" content="Parrot Security">
+	<meta name="generator" content="Hugo 0.70.0" />
+
+	<!-- plugins -->
+	
+	<link rel="stylesheet" href="https://parrotsec.org/plugins/bootstrap/bootstrap.min.css ">
+	
+	<link rel="stylesheet" href="https://parrotsec.org/plugins/themify-icons/themify-icons.css ">
+	
+	<link rel="stylesheet" href="https://parrotsec.org/plugins/magnific-popup/magnific-popup.css ">
+	
+	<link rel="stylesheet" href="https://parrotsec.org/plugins/slick/slick.css ">
+	
+	<link rel="stylesheet" href="https://parrotsec.org/plugins/fonts/fonts.css ">
+	
+
+	<!-- Main Stylesheet -->
+	
+	<link rel="stylesheet" href="https://parrotsec.org/css/style.min.css" media="screen">
+
+  <!-- Custom stylesheet - for your changes -->
+  <link rel="stylesheet" href="https://www.parrotsec.org/css/custom.css" media="screen">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="https://parrotsec.org/images/favicon.png " type="image/x-icon">
+	<link rel="icon" href="https://parrotsec.org/images/favicon.png " type="image/x-icon">
+
+</head>
+
+<body id="body" data-spy="scroll" data-target=".navbar" data-offset="55">
+  <div id="content">
+    
+<!-- preloader start -->
+<div class="preloader">
+  
+  <img src="https://parrotsec.org/images/logo.png" alt="preloader">
+  
+</div>
+<!-- preloader end -->
+
+
+
+
+
+
+<!-- Welcome Slider-->
+<section class="hero-area" style='background-image: url("https://parrotsec.org")'>
+	
+	<img style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(https:\/\/parrotsec.org\/images\/backgrounds\/macaw-poly2.jpg)'" src="https://parrotsec.org" />
+
+	<div class="block">
+		
+		<h1>The Parrot Project</h1>
+		<p>All-in-one framework for Cyber Security, Software Development and Privacy Defense.</p>
+		
+		
+		<a href="45#goals" class="btn btn-transparent page-scroll">Explore Us</a>
+		
+		
+	</div>
+</section>
+<!-- /Welcome Slider-->
+
+
+
+<section class="sticky-top navigation">
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-dark">
+			<a class="navbar-brand p-0" href="45">
+				
+				<img class="img-fluid" src="https://parrotsec.org/images/logo.png" alt="Parrot Security">
+				
+			</a>
+
+			<button class="navbar-toggler rounded-0" type="button" data-toggle="collapse" data-target="#navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+
+			<div class="collapse navbar-collapse" id="navigation">
+				<ul class="navbar-nav ml-auto">
+					<li class="nav-item"><a class="nav-link" href="45">Home</a></li>
+					
+					
+					<li class="nav-item"><a class="nav-link" href="45#goals">Project Goals</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/download">Download</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="45#community">Community</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/blog">Blog</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/docs">Documentation</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://nest.parrotsec.org">Nest</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/docs/team">Team</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/docs/donate">Donate</a></li>
+					
+					<li class="nav-item"><a class="nav-link" href="https://www.parrotsec.org/docs/partners">Partners</a></li>
+					
+
+					
+				</ul>
+				
+			</div>
+		</nav>
+	</div>
+</section>
+
+
+
+
+<section class="section section-bg about-2" id="goals">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                    <div class="title text-center wow fadeIn" data-wow-duration="1500ms">
+                        <h2>Parrot <span class="color">OS</span> </h2>
+                        <div class="border-meghna"></div>
+                    </div>
+                </div>
+            <div class="col-lg-6 padding-0 ">
+                <img class="img-fluid" src="https://parrotsec.org/images/about/about-business-man.jpg" alt="image">
+            </div>
+            <div class="col-lg-6">
+                <div class="content-block">
+                     <h2>We are the Parrot Project</h2> 
+                     <p>Parrot is a worldwide community of developers and security specialists that work together to build a shared framework of tools to make their job easier, standardized and more reliable and secure.</p> 
+                     <p>Parrot OS, the flagship product of Parrot Security is a GNU/Linux distribution based on Debian and designed with Security and Privacy in mind. It includes a full portable laboratory for all kinds of cyber security operations, from pentesting to digital forensics and reverse engineering, but it also includes everything needed to develop your own software or keep your data secure.</p> 
+                    <div class="row">
+                        
+                        <div class="col-lg-6">
+                            <div class="media">
+                                <div class="align-self-start mr-3">
+                                     <i class="tf-circle-compass"></i> 
+                                </div>
+                                <div class="media-body">
+                                     <h4 class="media-heading">Secure</h4>
+                                     <p>Always updated, frequently released with many hardening and sandboxing options abailable. Everything is under your complete control.</p> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-6">
+                            <div class="media">
+                                <div class="align-self-start mr-3">
+                                     <i class="tf-hotairballoon"></i> 
+                                </div>
+                                <div class="media-body">
+                                     <h4 class="media-heading">Free (as in freedom)</h4>
+                                     <p>Feel free to get the system, share with anyone, read the source code and change it as you want! this system is made to respect your freedom, and it ever will be.</p> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-6">
+                            <div class="media">
+                                <div class="align-self-start mr-3">
+                                     <i class="tf-hotairballoon"></i> 
+                                </div>
+                                <div class="media-body">
+                                     <h4 class="media-heading">Lightweight</h4>
+                                     <p>We care about resources consumption, and the system has proven to be extremely lightweight and run surprisingly fast even on very old hardware or with very limited resources.</p> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-6">
+                            <div class="media">
+                                <div class="align-self-start mr-3">
+                                     <i class="tf-hotairballoon"></i> 
+                                </div>
+                                <div class="media-body">
+                                     <h4 class="media-heading">Portable and universal</h4>
+                                     <p>Our tools are designed to be compatible with as many devices as possible via containerization technologies like Docker or Podman. Feel free to use the Parrot tools on Windows, Mac OS or any other Linux distribution without changing your habits.</p> 
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+<section class="bg-one about section" id="goals2">
+    <div class="container">
+        <div class="row">
+
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/shield.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Security</h3>
+                          <p>A complete arsenal of security tools that can be deployed on all your devices and in the cloud.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/padlock.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Privacy</h3>
+                          <p>A secure and hardened system ready to securely surf the web and privately communicate with, plus many useful zero-knowledge services where encryption is done right.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/gear.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Software Development</h3>
+                          <p>A full development stack with the best editors, languages and technologies available out of the box.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/book.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Learning</h3>
+                          <p>Many resources to learn from, in order to make your skillset stronger. The system is designed to push newbies into good habits.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/community.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Community</h3>
+                          <p>A vast community of experts who want to know you and help you in your cyber security journey.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-4 text-center wow fadeInUp" data-wow-duration="500ms">
+                <div class="block">
+                    <div class="icon-box">
+                        <img width="100" style="margin-top: -30px" src="https://www.parrotsec.org/images/about/server.png" />
+                    </div>
+                    <div class="content text-center">
+                        <h3 class="ddd">Infrastructure</h3>
+                          <p>A resilient and distributed infrastructure with dedicated CDNs, worldwide mirrors and IPFS/P2P gateways to give access to software and information even to people in totalitarian regimes or in poor countries where stable internet connection to foreign countries is not an option.</p>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</section>
+
+
+
+
+<section id="community" class="call-to-action section-sm bg-1 overly" style='top-padding: 20em;bottom-padding: 20em;background-image: url("https://parrotsec.org/images/backgrounds/MysticHorizon.jpg")'>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 text-center">
+                <h2 style="color:#fff">Community Forum</h2> 
+                <p style="color:#fff">An awesome community is one click away. Receive assistence, share ideas and follow the development of the project.</p> 
+                <a href="https://community.parrotlinux.org" class="btn btn-main" style="color:#222"> Jump Aboard </a>
+            </div>
+            <div class="col-lg-6 text-center">
+                 <h2 style="color:#fff">Community Portals</h2> 
+                 <p style="color:#fff">From Telegram groups to IRC Channels and social pages.</p> 
+                 <a href="https://www.parrotsec.org/docs/community" class="btn btn-main" style="color:#222"> Official Links </a>
+             </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+  </div><!-- end Contact Area -->
+<footer id="footer" class="section-bg">
+	<div class="container">
+		<div class="row wow fadeInUp" data-wow-duration="500ms">
+			<div class="col-xl-12">
+
+				<!-- Footer Social Links -->
+				<div class="social-icon">
+					<ul class="list-inline">
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://facebook.com/parrotsec"><img src="https://www.parrotsec.org/images/social/facebook.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://twitter.com/parrotsec"><img src="https://www.parrotsec.org/images/social/twitter.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://www.instagram.com/parrotproject/"><img src="https://www.parrotsec.org/images/social/instagram.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://t.me/parrotproject"><img src="https://www.parrotsec.org/images/social/telegram.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://en.wikipedia.org/wiki/Parrot_OS"><img src="https://www.parrotsec.org/images/social/wikipedia.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+						<li class="list-inline-item center-text"><a target="_blank" href="https://distrowatch.com/parrot"><img src="https://www.parrotsec.org/images/social/distrowatch.png" width="70px" height="70px" class="img-fluid" alt="" /></a></li>
+						
+					</ul>
+				</div>
+
+				<!-- copyright -->
+				<div class="copyright text-center">
+					<a href="https://parrotsec.org">
+						<img src="https://parrotsec.org/images/logo.png" alt="Parrot Security" />
+					</a>
+					<br>
+					<p>Copyright &copy;  <a href="https://palinuro.dev">  2013-2020 Lorenzo Faletra  </a><br>
+					Copyright &copy;  <a href="https://parrotsec.org">  2020 Parrot Security CIC </a></p>
+					<p><sub>Proudly Powered in Sicily with a huge amount of caffeine!</sub></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- /footer -->
+
+<!-- Google Map API -->
+
+
+<!-- JS Plugins -->
+
+<script src="https://parrotsec.org/plugins/jquery/jquery.min.js"></script>
+
+<script src="https://parrotsec.org/plugins/bootstrap/bootstrap.min.js"></script>
+
+<script src="https://parrotsec.org/plugins/slick/slick.min.js"></script>
+
+<script src="https://parrotsec.org/plugins/shuffle/shuffle.min.js"></script>
+
+<script src="https://parrotsec.org/plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+<script src="https://parrotsec.org/plugins/lazy-load/lozad.min.js"></script>
+
+
+<!-- Main Script -->
+
+<script src="https://parrotsec.org/js/script.min.js"></script></body>
+
+</html>

@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-70804878-1" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+<script type="4cf4be2bda0dc860eb09f107-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-70804878-1');
+</script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<meta property="og:title" content="Security BSides Athens : #BSidesAth #BSidesAthens">
+<meta property="og:site_name" content="Security BSides Athens">
+<meta property="og:url" content="https://www.bsidesath.gr">
+<meta property="og:description" content="Security BSides Athens is an Information Security conference by the community for the community. Follow: @BSidesAth">
+<meta property="og:image" content="https://www.bsidesath.gr/images/logo/BSidesAthens_FB.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_GR">
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="Security BSides Athens" />
+<meta name="twitter:creator" content="@BSidesAth" />
+<meta name="twitter:title" content="Security BSides Athens : #BSidesAth #BSidesAthens" />
+<meta name="twitter:description" content="Security BSides Athens is an Information Security conference by the community for the community. Follow: @BSidesAth" />
+<meta name="twitter:image" content="https://www.bsidesath.gr/images/logo/BSidesAthens_FB.jpg" />
+<meta name="twitter:domain" content="bsidesath.gr" />
+
+<META name="DESCRIPTION" content="Security BSides Athens is an Information Security conference by the community for the community. Follow: @BSidesAth" />
+<META name="KEYWORDS" content="BSidesAth, BSidesAthens, Athens Conference, Athens Convention, Information Security, Computer Security, Computer Forensics" />
+<META name="KEYWORDS" content="Greece, Hellenic, Hellas, Greek" />
+<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-8">
+<META http-equiv="expires" content="0">
+<META NAME="AUTHOR" CONTENT="DimisM.eu">
+<META name="GENERATOR" content="BSidesAth" />
+<META NAME="COPYRIGHT" CONTENT="&copy; 2014-2018 bsidesath.gr">
+<META name="ProgId" content="the simplest text editor" />
+<META name="revisit-after" content="10 days" />
+<title>&nbsp;Security BSides Athens</title>
+
+<link href="https://www.bsidesath.gr/assets/css/bootstrap.min.css" rel="stylesheet">
+
+<link href="https://www.bsidesath.gr/assets/css/custom.css" rel="stylesheet">
+<link href="https://www.bsidesath.gr/assets/css/dimism.css" rel="stylesheet">
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "WebPage",
+	  "name": "BSides Athens",
+	  "url": "https://www.bsidesath.gr",
+	  "contactPoint": {
+		"@type": "ContactPoint",
+		"telephone": "+30-",
+		"email": "info@bsidesath.gr",
+		"contactType": "customer service"
+	  }
+	}
+	</script>
+
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.bsidesath.gr/images/favicon/apple-icon-57x57.png" />
+<link rel="apple-touch-icon" sizes="60x60" href="https://www.bsidesath.gr/images/favicon/apple-icon-60x60.png" />
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.bsidesath.gr/images/favicon/apple-icon-72x72.png" />
+<link rel="apple-touch-icon" sizes="76x76" href="https://www.bsidesath.gr/images/favicon/apple-icon-76x76.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.bsidesath.gr/images/favicon/apple-icon-114x114.png" />
+<link rel="apple-touch-icon" sizes="120x120" href="https://www.bsidesath.gr/images/favicon/apple-icon-120x120.png" />
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.bsidesath.gr/images/favicon/apple-icon-144x144.png" />
+<link rel="apple-touch-icon" sizes="152x152" href="https://www.bsidesath.gr/images/favicon/apple-icon-152x152.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.bsidesath.gr/images/favicon/apple-icon-180x180.png" />
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.bsidesath.gr/images/favicon/android-icon-192x192.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.bsidesath.gr/images/favicon/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="96x96" href="https://www.bsidesath.gr/images/favicon/favicon-96x96.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.bsidesath.gr/images/favicon/favicon-16x16.png" />
+<link rel="manifest" href="https://www.bsidesath.gr/images/favicon/manifest.json" />
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="msapplication-TileImage" content="images/favicon/ms-icon-144x144.png" />
+<meta name="theme-color" content="#ffffff" />
+<style>
+		@media(min-width:768px) {
+		.navbar-default {
+			background-color: transparent;
+		}
+	</style>
+</head>
+<body>
+
+<nav id="siteNav" class="navbar navbar-default navbar-fixed-top" role="navigation">
+<div class="container">
+
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="https://www.bsidesath.gr/index.php" title="Home page">Security BSides Athens</a>
+</div>
+
+<div class="collapse navbar-collapse" id="navbar">
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a href="20#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="about-us">
+<li><a href="https://www.bsidesath.gr/index.php#About">Conference Info</a></li>
+<li><a href="https://www.bsidesath.gr/index.php#Tickets">Tickets</a></li>
+<li><a href="https://www.bsidesath.gr/index.php#Pevents">Previous Events</a></li>
+<li><a href="https://www.bsidesath.gr/code.php">Code of Conduct</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="20#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sponsors <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="about-us">
+<li><a href="https://www.bsidesath.gr/sponsors.php">See all Sponsors</a></li>
+<li><a href="https://www.bsidesath.gr/beasponsor.php">How to become a Sponsor</a></li>
+<li><a href="https://www.bsidesath.gr/sponsoring.php">Other Sponsoring Ideas</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="20#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">CFP <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="about-us">
+<li><a href="https://www.bsidesath.gr/cfp.php">CFP - Submit your Talk!</a></li>
+<li><a href="https://www.bsidesath.gr/tracks.php">Track Schedule</a></li>
+<li><a href="https://www.bsidesath.gr/speakers.php">Speakers</a></li>
+<li><a href="https://www.bsidesath.gr/reviewcommittee.php">Review Committe</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="20#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Venue <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="about-us">
+<li><a href="https://www.bsidesath.gr/venue.php">Location</a></li>
+<li><a href="https://www.bsidesath.gr/venue.php#Directions">Directions</a></li>
+<li><a href="https://www.bsidesath.gr/venue.php#Accomodation">Accomodation</a></li>
+<li><a href="https://www.bsidesath.gr/after-party.php">After-Party</a></li>
+</ul>
+</li>
+<li class="dropdown">
+<a href="20#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Extras <span class="caret"></span></a>
+<ul class="dropdown-menu" aria-labelledby="about-us">
+<li><a href="https://www.bsidesath.gr/channels.php">Channels &amp; Comms</a></li>
+<li><a href="https://www.bsidesath.gr/gallery.php">Gallery</a></li>
+<li><a href="https://www.bsidesath.gr/ctf.php">Challenges (CTF)</a></li>
+<li><a href="https://www.bsidesath.gr/TH/" target="_blank" rel="noopener noreferrer">Treasure Hunt</a></li>
+<li><a href="https://www.bsidesath.gr/competition.php">Competition</a></li>
+<li><a href="https://www.bsidesath.gr/games.php">Games</a></li>
+</ul>
+</li>
+<li><a href="https://www.bsidesath.gr/team.php">Contact</a></li>
+</ul>
+</div>
+</div>
+</nav> 
+<header>
+<div class="header-content">
+<div class="header-content-inner">
+<br /><br /><br /><br /><br /><br /><br /><br />
+</div>
+</div>
+</header>
+<section>
+<div class="container">
+<div class="row">
+<div class="col-lg-12" align="center">
+<div class="social">
+
+<a class="twitter" target="_blank" rel="noopener noreferrer" href="https://twitter.com/BSidesAth">
+<span class="fa fa-twitter"></span></a>
+
+<a class="linkedin" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/security-bsides-athens/">
+<span class="fa fa-linkedin"></span></a>
+
+<a class="facebook" target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/BSidesAthens">
+<span class="fa fa-facebook"></span></a>
+
+<a class="instagram" target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/bsidesath/">
+<span class="fa fa-instagram"></span></a>
+
+<a class="youtube" target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/c/SecurityBSidesAthens">
+<span class="fa fa-youtube"></span></a>
+
+<a class="email" href="https://www.bsidesath.gr/team.php">
+<span class="fa fa-at"></span></a>
+</div> </div>
+</div>
+</div>
+</section>
+
+<section class="intro" id="About">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+
+<h2 class="section-heading">Security BSides Athens 2021<br />(Date: 19/Jun/2021)</h2>
+<p class="lead text-light">Security BSides is a community-driven framework for building events by and for information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent Security <a href="http://www.securitybsides.com/w/page/68367666/BSides%20-%20Athens" target="_blank" class="text-light" rel="noopener noreferrer"><b>BSides-Approved</b></a> event for Athens, Greece.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2 align=" center">
+<table id="table" border="0" width="100%">
+<tr>
+<td align="center" colspan="4"><div class="numbers" id="count2" style="padding: 2px 0px 0px 0px; "></div></td>
+</tr>
+<tr id="spacer1">
+<td align="center"><div class="numbers" id="dday"></div></td>
+<td align="center"><div class="numbers" id="dhour"></div></td>
+<td align="center"><div class="numbers" id="dmin"></div></td>
+<td align="center"><div class="seconds" id="dsec"></div></td>
+</tr>
+<tr id="spacer2">
+<td align="center"><div class="title" id="days">Days</div></td>
+<td align="center"><div class="title" id="hours">Hours</div></td>
+<td align="center"><div class="title" id="minutes">Min</div></td>
+<td align="center"><div class="title" id="seconds">Sec</div></td>
+</tr>
+</table>
+</div>
+</div>
+<hr><Br>
+<div class="row">
+<div class="col-lg-4" align="left">
+<p class="lead text-light"><b>The idea</b><br><br>The idea behind the Security BSides events is to organise an open (and low cost) Information Security conference where professionals, experts, researcher, and InfoSec enthusiasts come together to discuss the next "big thing".</p>
+<p class="lead text-light">BSides is not restricted only to ethical hacking, but instead the conference is open to a wide range of subjects related to security such as incident response, IoT security, computer forensics, security standards and of course compliance.</p>
+</div>
+<div class="col-lg-4" align="left">
+<p class="lead text-light"><b>Our goal</b><br><br>To bring a well-known event to the InfoSec community in Greece, where professionals, academics and researchers can participate for free and educate themselves on various InfoSec related disciplines.</p>
+<p class="lead text-light">The event will also provide an opportunity to students, rookies and security enthusiasts to get involved and be heard in a worldwide exposed event. Professionals from all over Europe, and especially from Greece and Cyprus, will have the opportunity to meet and network during the conference.</p>
+</div>
+<div class="col-lg-4" align="left">
+<p class="lead text-light"><b>Who is organising this event?</b><br><br>The short answer to this is <b>YOU</b>. This is what makes these events so successful and a unique experience. Security BSides events are organized: ..<i>by the community, for the community</i> </p>
+<p class="lead text-light">Behind the scenes to drive the event are a number of people, professionals in the area of Information Security, who decided to take the first steps and bring this global event in Greece.</p>
+<p class="lead text-light">Our <a href="https://www.bsidesath.gr/sponsors.php"><font color="white">sponsors</font></a>, our <a href="https://www.bsidesath.gr/team.php"><font color="white">volunteers</font></a>, our <a href="https://www.bsidesath.gr/sponsors.php#Slider2"><font color="white">community supporters</font></a>, our <a href="https://www.bsidesath.gr/speakers.php"><font color="white">speakers</font></a>, our delegates and more importantly you. Support this initiative to have a Security BSides event in Athens.</p>
+</div>
+</div>
+<hr><Br>
+<div class="row">
+<div class="col-lg-8 col-lg-offset-2">
+<h2 class="section-heading">Join Us</h2>
+<p class="lead text-light">Get Involved with Security BSides Athens! You can sponsor the event, help out on the day as a volunteer, present at the conference, attend talks and workshops, participate in competitions and most importantly, enjoy the day and have fun. Participate, network, learn, interact and share ideas with security minded people from all over the world. #BSidesAth</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="content" id="Tickets">
+<div class="container">
+<div class="row">
+<div class="col-lg-6">
+<img class="img-responsive img-circle center-block" src="https://www.bsidesath.gr/images/virtual-event1.jpg" width="80%" alt="Eventbrite" /><br /><br />
+</div>
+<div class="col-lg-6">
+<h2 class="section-header">Tickets</h2>
+<p class="lead text-muted">Security BSides Athens 2021 uses <b>Eventbrite</b> for offering tickets. You need to first register for the conference and then you will receive the <a href="https://www.bsidesath.gr/ctf.php">CTF</a> registration form.
+<br>We are planning to open the tickets 1/May/2021 at 11:00AM (GMT+3), you can register for the conference by clicking the button below.</p>
+<a href="https://www.eventbrite.co.uk/o/security-bsides-athens-6862969841" class="btn btn-primary btn-lg" target="blank">Reserve a ticket</a>
+</div>
+</div>
+<hr><br />
+<div class="row">
+<div class="col-lg-6">
+<p class="lead text-muted">The venue is booked for a <u>specific number of attendees</u>. The tickets are offered through Eventbrite on a first-come, first-served basis. Make sure you reserve your ticket as we will have the opportunity to have a wider audience from the whole of Greece and around the world. Subscribe to our <a href="https://www.youtube.com/c/SecurityBSidesAthens" target="_blank" rel="noopener noreferrer"><b>YouTube</b></a> channel to see recorded talks and access the live streaming.</p>
+<p class="lead text-muted">» Security BSides Athens <b>respects your privacy</b>. Your details used to register for the event are handled according to our <a href="https://www.bsidesath.gr/privacy.php" target="_blank" rel="noopener noreferrer"><b>Privacy Policy</b></a>, which is for communicating and conducting the conference.</p>
+<p class="lead text-muted">» As an attendee/participant you agree to be bound by the Security BSides Athens Attendee <a href="https://www.bsidesath.gr/code.php" target="_blank" rel="noopener noreferrer"><b>Code of Conduct</b></a>.</p>
+</div>
+<div class="col-lg-6">
+<p class="lead text-muted">In order to avoid double bookings, <b>we will review regularly the reserved slots</b> to ensure there are no double bookings under the same name.</p>
+<p class="lead text-muted">Each attendee is allowed to reserve only <b>1</b> ticket. Due to the fact the tickets are <b>limited</b> you are kindly requested not to abuse the system and respect the process, by <u>not reserving multiple tickets for yourselves</u>. Allow people to reserve their own ticket.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section class="content content-1" id="Pevents">
+<div class="container">
+<div class="row">
+<div class="col-lg-4">
+<img class="img-responsive img-circle center-block" src="https://www.bsidesath.gr/images/PastEvents-icon-02-01.png" width="80%" alt="Past Event" /><br /><br />
+</div>
+<div class="col-lg-4">
+<h2 class="section-header">Previous Events</h2>
+<p class="lead text-light">See all previous events, of Security BSides Athens ordered by year, including speakers, photos, etc.</p>
+</div>
+<div class="col-lg-4">
+<table class="table">
+<tbody>
+<tr align="center">
+<td style="border-top: none;"><a href="https://2016.bsidesath.gr" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa fa-university"></i><font size="4px"> 2016</font></a><br /></td>
+<td style="border-top: none;"><a href="https://2017.bsidesath.gr" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa fa-university"></i><font size="4px"> 2017</font></a></td>
+</tr>
+<tr align="center">
+<td style="border-top: none;"><a href="https://2018.bsidesath.gr" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa fa-university"></i><font size="4px"> 2018</font></a><br /></td>
+<td style="border-top: none;"><a href="https://2019.bsidesath.gr" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa fa-university"></i><font size="4px"> 2019</font></a></td>
+</tr>
+<tr align="center">
+<td style="border-top: none;"><a href="https://2020.bsidesath.gr" class="btn btn-primary btn-lg" target="_blank" rel="noopener noreferrer"><i class="fa fa-university"></i><font size="4px"> 2020</font></a><br /></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>
+
+<div class="container-fluid">
+<div class="row promo">
+<div class="col-md-4 promo-item item-1">
+<h3>Network</h3>
+</div>
+<div class="col-md-4 promo-item item-2">
+<h3>Educate</h3>
+</div>
+<div class="col-md-4 promo-item item-3">
+<h3>Participate</h3>
+</div>
+</div>
+</div>
+
+<section class="content content-3">
+ <div class="container">
+<h2 class="section-header"><span class="glyphicon glyphicon-pushpin text-primary"></span><br> Further information about the conference</h2>
+<p class="lead text-muted">network - educate - participate</p>
+<a href="https://www.bsidesath.gr/team.php" class="btn btn-primary btn-lg">Meet the Team</a>
+</div>
+</div>
+</section>
+
+<footer class="page-footer">
+
+<div class="contact" id="Contact">
+<div class="container">
+<h2 class="section-heading">Contact Us</h2>
+<p><span class="glyphicon glyphicon-envelope"></span><br /> info&nbsp;|@|&nbsp;bsidesath&nbsp;|.|&nbsp;gr</p><br />
+<p>
+<a href="https://twitter.com/BSidesAth" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/socials/social_twitter_x_70.png" alt="Twitter"></a>
+<a href="https://www.linkedin.com/company/security-bsides-athens/" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/socials/social_linkedin_x_70.png" alt="Linkedin"></a>
+<a href="https://www.facebook.com/BSidesAthens" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/socials/social_facebook_x_70.png" alt="Facebook"></a>
+<a href="https://www.youtube.com/c/SecurityBSidesAthens" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/socials/social_youtube_x_70.png" alt="YouTube"></a>
+<a href="https://www.instagram.com/bsidesath/" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/socials/social_instagram_x_70.png" alt="Instagram"></a>
+</p><br />
+<hr>
+<div class="row">
+<div class="col-lg-4" align="center">
+<h2 class="section-header"><font size="5px">Find us on Facebook</font></h2>
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2FBSidesAthens%2F&width=350&layout=standard&action=recommend&size=large&show_faces=true&share=true&height=100&appId=616229625237358" width="350" height="100" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+</div>
+<div class="col-lg-4" align="center">
+<h2 class="section-header"><font size="5px">Subscribe to our channel</font></h2>
+<script src="https://apis.google.com/js/platform.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+<div class="g-ytsubscribe" data-channelid="UCU9YvOkpgci8EQXnzMXRqXw" data-layout="full" data-count="default"></div>
+</div>
+<div class="col-lg-4" align="center">
+<h2 class="section-header"><font size="5px">Download our Apps</font></h2>
+<a href="https://play.google.com/store/apps/details?id=dimism.bsidesathens" border="0" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/Play_Store_.png" /></a>&nbsp;<a href="https://apps.apple.com/us/app/bsidesath/id1057022307" border="0" target="_blank" rel="noopener noreferrer"><img src="https://www.bsidesath.gr/images/App_Store_.png" /></a>
+</div> </div>
+</div>
+</div> 
+<div class="small-print">
+<div class="container">
+<p>Copyright &copy; www.bsidesath.gr 2016 - 2021</p>
+</div>
+</div> </footer>
+
+<script src="https://www.bsidesath.gr/assets/js/jquery-3.3.1.slim.min.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+
+<script src="https://www.bsidesath.gr/assets/js/bootstrap.min.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+
+<script src="https://www.bsidesath.gr/assets/js/jquery.easing.min.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+
+<script src="https://www.bsidesath.gr/assets/js/custom.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+
+<script src="https://www.bsidesath.gr/assets/js/dimismenuclose.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script> <script src="https://www.bsidesath.gr/assets/js/counter.js" type="4cf4be2bda0dc860eb09f107-text/javascript"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="4cf4be2bda0dc860eb09f107-|49" defer=""></script></body>
+</html>

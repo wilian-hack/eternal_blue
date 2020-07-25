@@ -1,0 +1,772 @@
+<!doctype html>
+
+<!--[if lt IE 7]>		<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+
+<!--[if IE 7]>			<html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+
+<!--[if IE 8]>			<html class="no-js lt-ie9" lang=""> <![endif]-->
+
+<!--[if gt IE 8]><!-->	<html class="no-js" lang=""> <!--<![endif]-->
+
+<head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130797503-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130797503-1');
+</script>
+
+<script>
+  (function(){
+
+    window.ldfdr = window.ldfdr || {};
+    (function(d, s, ss, fs){
+      fs = d.getElementsByTagName(s)[0];
+
+      function ce(src){
+        var cs  = d.createElement(s);
+        cs.src = src;
+        setTimeout(function(){fs.parentNode.insertBefore(cs,fs)}, 1);
+      }
+
+      ce(ss);
+    })(document, 'script', 'https://sc.lfeeder.com/lftracker_v1_p1e024BLYY08GB6d.js');
+  })();
+</script>
+
+	<meta charset="utf-8">
+
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<title>Vartai | Protect the Cyber Gate</title>
+
+	<meta name="description" content="">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="icon" href="https://vartaisecurity.com/favicon.ico">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/normalize.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/font-awesome.min.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/icomoon.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/transitions.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/prettyPhoto.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/owl.carousel.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/pogoslider.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/style.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/color.css">
+
+	<link rel="stylesheet" href="https://vartaisecurity.com/css/responsive.css">
+
+	<script src="https://vartaisecurity.com/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+
+
+
+</head>
+
+<body class="at-home at-homeone">
+
+	<!--[if lt IE 8]>
+
+		<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+
+	<![endif]-->
+
+	<!--************************************
+
+			Loader Start
+
+	*************************************-->
+
+	<div class="lds-roller">
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+		<div></div>
+
+	</div>
+
+	<!--************************************
+
+			Loader End
+
+	*************************************-->
+
+	<!--************************************
+
+			Wrapper Start
+
+	*************************************-->
+
+	<div id="at-wrapper" class="at-wrapper">
+
+		<!--************************************
+
+				Header Start
+
+		*************************************-->
+
+		<header id="at-header" class="at-header">
+
+			<div class="container-fluid">
+
+				<div class="row">
+
+					<strong class="at-logo"><a href="https://vartaisecurity.com/index.html"><img src="https://vartaisecurity.com/images/Hlogo.png" alt="Vartai Security"></a></strong>
+
+					<div class="at-navigationarea">
+
+						<nav id="at-nav" class="at-nav">
+
+							<div class="navbar-header">
+
+								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#at-navigation" aria-expanded="false">
+
+									<span class="sr-only">Toggle navigation</span>
+
+									<span class="icon-bar"></span>
+
+									<span class="icon-bar"></span>
+
+									<span class="icon-bar"></span>
+
+								</button>
+
+							</div>
+
+							<div id="at-navigation" class="collapse navbar-collapse at-navigation">
+
+								<ul>
+
+									<li class="menu-item-has-children current-menu-item">
+
+										<a href="https://vartaisecurity.com/index.html">Home</a>
+
+
+
+									</li>
+
+									<li class="menu-item-has-children">
+
+										<a href="https://vartaisecurity.com/whoweare.html">About Us</a>
+
+										<ul class="sub-menu">
+
+											<li><a href="https://vartaisecurity.com/whoweare.html">Who We Are</a></li>
+
+											<li><a href="https://vartaisecurity.com/community.html">Community</a></li>
+
+										</ul>
+
+									</li>
+
+									<li class="menu-item-has-children">
+
+										<a href="https://vartaisecurity.com/services.html">Services</a>
+
+									</li>
+
+									<li class="menu-item-has-children">
+
+										<a href="https://medium.com/vartai-security">blog</a>
+
+									</li>
+
+									<li class="menu-item-has-children">
+
+										<a href="https://github.com/vartai-security">Vartai Forge</a>
+
+                    <ul class="sub-menu">
+
+											<li><a href="https://vartaisecurity.com/prolabs.html">Pro Labs</a></li>
+
+											<li><a href="https://github.com/vartai-security">Tools</a></li>
+											
+											<li><a href="https://www.arboreal.io">Arboreal</a></li>
+
+										</ul>
+
+									</li>
+
+									<li class="menu-item-has-children">
+
+										<a href="https://vartaisecurity.com/contactus.html">Contact Us</a>
+
+									</li>
+
+								</ul>
+
+							</div>
+
+						</nav>
+
+						<div class="at-contactsocial">
+
+							<span class="at-contactnumber">
+
+								<i class="icon-telephone114"></i>
+
+								<em>+1 813 527 0095</em>
+
+							</span>
+
+							<ul class="at-socialicons">
+
+								<li class="at-twitter"><a href="https://twitter.com/vartaisec"><i class="fa fa-twitter"></i></a></li>
+
+								<li class="at-linkedin"><a href="https://www.linkedin.com/company/vartai-security/"><i class="fa fa-linkedin"></i></a></li>
+
+								<li class="at-medium"><a href="https://medium.com/@vartaisecurity"><i class="fa fa-medium"></i></a></li>
+
+								<li class="at-github"><a href="https://github.com/vartai-security"><i class="fa fa-github"></i></a></li>
+
+
+
+							</ul>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</header>
+
+		<!--************************************
+
+				Header End
+
+		*************************************-->
+
+		<!--************************************
+
+				Home Slider Start
+
+		*************************************-->
+
+		<div class="at-homesliderarea">
+
+			<div id="at-homeslidervone" class="at-haslayout at-homeslidervone at-homeslider">
+
+				<div class="pogoSlider-slide" data-transition="fade" data-duration="1500">
+
+					<figure data-transition="fade" data-duration="1500" style="background:url(https://vartaisecurity.com/images/slider/HBanner.png) no-repeat scroll 0 0;"></figure>
+
+					<div class="at-pogolidercontent pogoSlider-slide-element" data-in="slideRight" data-out="slideLeft" data-duration="1800">
+
+						<div class="at-slidercontent">
+
+							<div class="at-titleborder"><h2><span>Defend the Cyber Gate</span></h2></div>
+
+							<div class="at-description">
+
+								<p>Full range cyber operators. We protect, secure, train, and mature information networks no matter the size or industry</p>
+
+							</div>
+
+							<div class="at-btns">
+
+								<a class="at-btn at-btnactive" href="https://vartaisecurity.com/whoweare.html">Read More</a>
+
+								<a class="at-btn" href="https://vartaisecurity.com/contactus.html">Contact Us</a>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<a class="at-infoemail" href="https://vartaisecurity.com/cdn-cgi/l/email-protection#3a53545c557a4c5b484e5b53495f594f48534e4314595557"><span class="__cf_email__" data-cfemail="b1d8dfd7def1c7d0c3c5d0d8c2d4d2c4c3d8c5c89fd2dedc">[email&#160;protected]</span></a>
+
+		</div>
+
+		<!--************************************
+
+				Home Slider End
+
+		*************************************-->
+
+		<!--************************************
+
+				Main Start
+
+		*************************************-->
+
+		<main id="at-main" class="at-main at-haslayout">
+
+			<!--************************************
+
+					Features Start
+
+			*************************************-->
+
+			<section class="at-featuresarea">
+
+				<div class="at-titleandbtn">
+
+					<h2>We work to become the <span>trusted advisor</span> to mature InfoSec throughout business operations.</h2>
+
+					<a class="at-btn at-btnb" href="https://vartaisecurity.com/contactus.html">contact us</a>
+
+					<div class="at-counter"></div>
+
+				</div>
+
+				<div id="at-featuresslider" class="at-features at-featuresslider owl-carousel">
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-shield"></i></span>
+
+							<div class="at-title">
+
+								<h3>Breach Defense</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai develops custom solutions including adversarial insights and SecOps dashboards to provide an ongoing point-in-time view of your organization's security posture via a variety of metrics obtained from your current environment.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-fighter-jet"></i></span>
+
+							<div class="at-title">
+
+								<h3>Breach Response</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai develops custom solutions including adversarial insights and SecOps dashboards to provide an ongoing point-in-time view of your organization's security posture via a variety of metrics obtained from your current environment.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-signal"></i></span>
+
+							<div class="at-title">
+
+								<h3>Managed Security</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai enhances your breach identification capabilities through several proprietary and autonomous asset, vulnerability and boundary monitoring platforms. We also provide consulting services for optimizing existing monitoring platforms already in your environment.	</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-compass"></i></span>
+
+							<div class="at-title">
+
+								<h3>Security Strategy</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai matures your InfoSec organizational strategy and capabilities to build cyber resiliency and demonstrate compliance.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-user-secret"></i></span>
+
+							<div class="at-title">
+
+								<h3>Attack Simulation</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai validates your trusted insiders against key adversarial attack vectors that have been proven to be the most likely weak point in your defenses.</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+					<div class="item">
+
+						<div class="at-feature">
+
+							<span class="at-featureicon"><i class="fa fa-users"></i></span>
+
+							<div class="at-title">
+
+								<h3>Security Training</h3>
+
+							</div>
+
+							<div class="at-description">
+
+								<p>Vartai provides hands-on, custom training simulations to arm your internal security professionals against the latest Tactics, Techniques and Procedures (TTPs).</p>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</section>
+
+			<!--************************************
+
+					Features End
+
+			*************************************-->
+
+			<div class="clearfix"></div>
+
+			<!--************************************
+
+					About Us Start
+
+			*************************************-->
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+						<section class="at-aboutus">
+
+							<figure class="at-sectionimg">
+
+								<div class="at-imgholder">
+
+									<img src="https://vartaisecurity.com/images/Flag.png" alt="Vartai Flag">
+
+								</div>
+
+							</figure>
+
+							<div class="at-textcontent">
+
+								<div class="at-sectiontitleborder"><h2>About Us</h2></div>
+
+								<div class="at-description">
+
+									<p>Vartai Security is an Information Security consultancy based in Tampa, FL and Washington D.C. with the goal of helping clients to both understand and mitigate risks to their perimeter and internal network environments. We offer a wide array of services from standard internal and external penetration testing and web application assessments to customized black box/evasive and scenario-based assessments. Our assessments go far beyond a scan and aim at finding flaws only discoverable through hands-on manual testing. We work to tailor each assessment to the client's environment and the risks inherent to their core business.</p>
+
+								</div>
+
+								<div class="at-btns">
+
+									<a class="at-btn at-btnb" href="https://vartaisecurity.com/whoweare.html">Read More</a>
+
+								</div>
+
+							</div>
+
+						</section>
+
+					</div>
+
+				</div>
+
+			</div>
+
+			<!--************************************
+
+					About Us End
+
+			*************************************-->
+
+			<!--************************************
+
+					Why Choose Us Start
+
+			*************************************-->
+
+			<section class="at-sectionspace at-whychooseusarea at-haslayout">
+
+				<div class="container">
+
+					<div class="row">
+
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+							<div class="at-sectionhead">
+
+								<div class="at-sectiontitleborder">
+
+									<h2>Why Choose Us</h2>
+
+								</div>
+
+								<div class="at-description">
+
+									<p>Vartai can provide an array of custom solutions to help guide small, medium and large organizations through the most complex cybersecurity challenges.</p>
+
+								</div>
+
+							</div>
+
+							<div class="at-whychooseus">
+
+								<span class="at-whychooseusicon"><i class="fa fa-user-md"></i></span>
+
+								<div class="at-whychooseuscontent">
+
+									<h3>Trusted Advisor Focus</h3>
+
+									<div class="at-description">
+
+										<p>We strive to become part of your internal SecOps team and reachback support. Our professionals can provide strategic insight into enterprise security planning which matures the organization in accordance with current and future threats.</p>
+
+									</div>
+
+								</div>
+
+							</div>
+
+							<div class="at-whychooseus">
+
+								<span class="at-whychooseusicon"><i class="icon-profile-male"></i></span>
+
+								<div class="at-whychooseuscontent">
+
+									<h3>Top Talent</h3>
+
+									<div class="at-description">
+
+										<p>Our professionals all originate from large "Big-4" and industry leading consulting firms. As leaders within those firms, we have crafted a dedicated team within Vartai that can provide leading services at a fraction of the cost.</p>
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</section>
+
+			<!--************************************
+
+					Why Choose Us End
+
+			*************************************-->
+
+		</main>
+
+		<!--************************************
+
+				Main End
+
+		*************************************-->
+
+		<!--************************************
+
+				Footer Start
+
+		*************************************-->
+
+		<footer id="at-footer" class="at-footer at-haslayout">
+
+			<div class="container">
+
+				<div class="row">
+
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+						<div class="at-threecolumns">
+
+							<div class="at-fcolumn">
+
+								<div class="at-widget at-widgettext">
+
+									<strong class="at-logo"><a href="javascript:void(0);"><img src="https://vartaisecurity.com/images/Flogo.png" alt="image description"></a></strong>
+
+									<div class="at-description">
+
+										<p>Full range cyber operators. We protect, secure, train, and mature information networks no matter the size or industry</p>
+
+									</div>
+
+									<ul class="at-socialicons">
+
+										<li class="at-twitter"><a href="https://twitter.com/vartaisec"><i class="fa fa-twitter"></i></a></li>
+
+										<li class="at-linkedin"><a href="https://www.linkedin.com/company/vartai-security/"><i class="fa fa-linkedin"></i></a></li>
+
+										<li class="at-medium"><a href="https://medium.com/@vartaisecurity"><i class="fa fa-medium"></i></a></li>
+
+										<li class="at-github"><a href="https://github.com/vartai-security"><i class="fa fa-github"></i></a></li>
+
+									</ul>
+
+								</div>
+
+							</div>
+
+							<div class="at-fcolumn">
+
+								<div class="at-widget at-widgetusefullinks">
+
+									<div class="at-fwidgettitle">
+
+										<h3>Navigation</h3>
+
+									</div>
+
+									<div class="at-widgetcontent">
+
+										<ul>
+
+											<li><a href="https://vartaisecurity.com/index.html">Home</a></li>
+
+											<li><a href="https://vartaisecurity.com/whoweare.html">About Us</a></li>
+
+											<li><a href="https://vartaisecurity.com/services.html">Services</a></li>
+
+											<li><a href="https://medium.com/vartai-security">Blog</a></li>
+
+											<li><a href="https://vartaisecurity.com/community.html">Community</a></li>
+
+											<li><a href="https://vartaisecurity.com/contactus.html">Contact Us</a></li>
+
+										</ul>
+
+									</div>
+
+								</div>
+
+							</div>
+
+						</div>
+
+						<div class="at-copyright">
+
+							<p>Copyright Vartai Security 2020. All rights reserved.</p>
+
+						</div>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</footer>
+
+		<!--************************************
+
+				Footer End
+
+		*************************************-->
+
+	</div>
+
+	<!--************************************
+
+			Wrapper End
+
+	*************************************-->
+
+	<script data-cfasync="false" src="https://vartaisecurity.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://vartaisecurity.com/js/vendor/jquery-library.js"></script>
+
+	<script src="https://vartaisecurity.com/js/vendor/jquery-migrate.js"></script>
+
+	<script src="https://vartaisecurity.com/js/vendor/bootstrap.min.js"></script>
+
+	<script src="https://vartaisecurity.com/js/owl.carousel.min.js"></script>
+
+	<script src="https://vartaisecurity.com/js/Chart.bundle.min.js"></script>
+
+	<script src="https://vartaisecurity.com/js/isotope.pkgd.js"></script>
+
+	<script src="https://vartaisecurity.com/js/prettyPhoto.js"></script>
+
+	<script src="https://vartaisecurity.com/js/jquery.vide.js"></script>
+
+	<script src="https://vartaisecurity.com/js/pogoslider.js"></script>
+
+	<script src="https://vartaisecurity.com/js/countTo.js"></script>
+
+	<script src="https://vartaisecurity.com/js/appear.js"></script>
+
+	<script src="https://vartaisecurity.com/js/gmap3.js"></script>
+
+	<script src="https://vartaisecurity.com/js/function.js"></script>
+
+</body>
+
+</html>
