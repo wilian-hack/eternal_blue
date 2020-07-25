@@ -32,6 +32,8 @@ chmod +x eternal_blue.sh
 
 bash eternal_blue.sh
 
+
+
 sigueme en:
     YOUTUBE:
 
